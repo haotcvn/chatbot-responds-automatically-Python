@@ -1,0 +1,246 @@
+<?xml version="1.0" ?>
+<document>
+	<sentence>
+		Apple khẩn trương ra bản vá lỗ hổng an ninh cho iPhone.
+		<word>apple</word>
+		<word>khẩn trương</word>
+		<word>vá</word>
+		<word>lỗ hổng</word>
+		<word>an ninh</word>
+		<word>iphone</word>
+	</sentence>
+	<sentence>
+		Ngay sau khi Qualcomm thông báo về lỗ hổng ảnh hưởng đến hàng tỷ điện thoại Android dùng chip Qualcomm thì Apple cũng khẩn trương ra bản vá lỗ hổng an ninh cho iPhone….
+		<word>qualcomm</word>
+		<word>thông báo</word>
+		<word>lỗ hổng</word>
+		<word>ảnh hưởng</word>
+		<word>hàng</word>
+		<word>tỷ</word>
+		<word>điện thoại</word>
+		<word>android</word>
+		<word>chip</word>
+		<word>qualcomm</word>
+		<word>apple</word>
+		<word>khẩn trương</word>
+		<word>vá</word>
+		<word>lỗ hổng</word>
+		<word>an ninh</word>
+		<word>iphone</word>
+		<word>…</word>
+	</sentence>
+	<sentence>
+		Qualcomm mới đây đã tiết lộ 4 lỗ hổng zero-day trong chip khiến cho nguy cơ hàng tỷ smartphone có thể bị ảnh hưởng do lỗ hổng bảo mật trong chip Qualcomm khắp thế giới.
+		<word>qualcomm</word>
+		<word>tiết lộ</word>
+		<word>4</word>
+		<word>lỗ</word>
+		<word>hổng</word>
+		<word>zero-day</word>
+		<word>chip</word>
+		<word>nguy cơ</word>
+		<word>hàng</word>
+		<word>tỷ smartphone</word>
+		<word>ảnh hưởng</word>
+		<word>lỗ hổng</word>
+		<word>bảo mật</word>
+		<word>chip qualcomm</word>
+		<word>khắp</word>
+		<word>thế giới</word>
+	</sentence>
+	<sentence>
+		Bên cạnh việc vá lỗ hổng, bản vá iOS 17.0.3 được thông báo là sẽ giúp cải thiện tình trạng nóng máy xảy ra trên iPhone 15 mới ra mắt.
+		<word>vá</word>
+		<word>lỗ hổng</word>
+		<word>vá</word>
+		<word>ios</word>
+		<word>17.0.3</word>
+		<word>thông báo</word>
+		<word>giúp</word>
+		<word>cải thiện</word>
+		<word>nóng máy</word>
+		<word>xảy</word>
+		<word>iphone</word>
+		<word>15</word>
+		<word>ra mắt</word>
+	</sentence>
+	<sentence>
+		Đặc biệt, bản cập nhật an ninh khẩn cấp của Apple để vá lỗ hổng zero-day mới, bị khai thác trong các cuộc tấn công nhắm vào người dùng iPhone và iPad.
+		<word>cập nhật</word>
+		<word>an ninh</word>
+		<word>khẩn cấp</word>
+		<word>apple</word>
+		<word>vá</word>
+		<word>lỗ hổng</word>
+		<word>zero-day</word>
+		<word>khai thác</word>
+		<word>tấn công</word>
+		<word>nhắm</word>
+		<word>iphone</word>
+		<word>ipad</word>
+	</sentence>
+	<sentence>
+		Cụ thể, lỗ hổng zero-day (CVE-2023-42824) xuất phát từ điểm yếu được phát hiện trong nhân XNU, cho phép kẻ tấn công cục bộ leo thang đặc quyền trên iPhone và iPad.
+		<word>lỗ hổng</word>
+		<word>zero-day</word>
+		<word>cve-2023-42824</word>
+		<word>xuất phát</word>
+		<word>yếu</word>
+		<word>phát hiện</word>
+		<word>nhân xnu</word>
+		<word>cho phép</word>
+		<word>kẻ</word>
+		<word>tấn công</word>
+		<word>cục bộ</word>
+		<word>leo thang</word>
+		<word>đặc quyền</word>
+		<word>iphone</word>
+		<word>ipad</word>
+	</sentence>
+	<sentence>
+		Theo Apple, nhiều khả năng lỗ hổng bảo mật này có thể đã bị khai thác thực tế trên các phiên bản iOS trước iOS 16.6.
+		<word>apple</word>
+		<word>khả năng</word>
+		<word>lỗ hổng</word>
+		<word>bảo mật</word>
+		<word>khai thác</word>
+		<word>phiên bản</word>
+		<word>ios</word>
+		<word>ios</word>
+		<word>16.6</word>
+	</sentence>
+	<sentence>
+		Apple đã khắc phục vấn đề trong iOS 17.0.3 và iPadOS 17.0.3 bằng các biện pháp kiểm tra được cải tiến.
+		<word>apple</word>
+		<word>khắc phục</word>
+		<word>ios</word>
+		<word>17.0.3</word>
+		<word>ipados</word>
+		<word>17.0.3</word>
+		<word>biện pháp</word>
+		<word>kiểm tra</word>
+		<word>cải tiến</word>
+	</sentence>
+	<sentence>
+		Tuy nhiên, Hãng chưa tiết lộ ai đã tìm thấy và báo cáo lỗ hổng.
+		<word>hãng</word>
+		<word>tiết lộ</word>
+		<word>báo cáo</word>
+		<word>lỗ hổng</word>
+	</sentence>
+	<sentence>
+		Danh sách các thiết bị bị ảnh hưởng khá rộng, bao gồm: iPhone XS trở lên; iPad Pro 12,9 inch thế hệ thứ 2 trở lên, iPad Pro 10,5 inch, iPad Pro 11 inch thế hệ 1 trở lên, iPad Air thế hệ thứ 3 trở lên, iPad thế hệ thứ 6 trở lên và iPad mini thế hệ thứ 5 trở lên
+
+Để phòng tránh bị tấn công, người dùng cần nâng cấp sớm bản cập nhật mới này.
+		<word>danh sách</word>
+		<word>thiết bị</word>
+		<word>ảnh hưởng</word>
+		<word>rộng</word>
+		<word>bao gồm</word>
+		<word>iphone</word>
+		<word>xs</word>
+		<word>trở</word>
+		<word>ipad</word>
+		<word>pro</word>
+		<word>12,9 inch</word>
+		<word>thế hệ</word>
+		<word>2</word>
+		<word>trở</word>
+		<word>ipad</word>
+		<word>pro</word>
+		<word>10,5 inch</word>
+		<word>ipad</word>
+		<word>pro</word>
+		<word>11</word>
+		<word>inch</word>
+		<word>thế hệ</word>
+		<word>1</word>
+		<word>trở</word>
+		<word>ipad</word>
+		<word>air</word>
+		<word>thế hệ</word>
+		<word>3</word>
+		<word>trở</word>
+		<word>ipad</word>
+		<word>thế hệ</word>
+		<word>6</word>
+		<word>trở</word>
+		<word>ipad mini</word>
+		<word>thế hệ</word>
+		<word>5</word>
+		<word>trở</word>
+		<word>phòng tránh</word>
+		<word>tấn công</word>
+		<word>nâng cấp</word>
+		<word>cập nhật</word>
+	</sentence>
+	<sentence>
+		Truy cập vào phần Cài đặt -&gt; Cài đặt chung -&gt; Giới thiệu -&gt; Cập nhật phần mềm, sau đó tiến hành nâng cấp theo hướng dẫn.
+		<word>truy cập</word>
+		<word>cài đặt</word>
+		<word>-&gt;</word>
+		<word>cài đặt</word>
+		<word>-&gt;</word>
+		<word>giới thiệu</word>
+		<word>-&gt; cập nhật</word>
+		<word>phần mềm</word>
+		<word>tiến hành</word>
+		<word>nâng cấp</word>
+		<word>hướng dẫn</word>
+	</sentence>
+	<sentence>
+		Ông Vũ Ngọc Sơn, Giám đốc Kỹ thuật Công ty cổ phần Công nghệ An ninh mạng Quốc gia (NCS), khuyến cáo: Người dùng chỉ có thể chờ bản cập nhật từ nhà sản xuất.
+		<word>vũ ngọc sơn</word>
+		<word>giám đốc</word>
+		<word>kỹ thuật</word>
+		<word>công ty</word>
+		<word>cổ phần</word>
+		<word>công nghệ</word>
+		<word>an ninh</word>
+		<word>mạng</word>
+		<word>quốc gia</word>
+		<word>ncs</word>
+		<word>khuyến cáo</word>
+		<word>chờ</word>
+		<word>cập nhật</word>
+		<word>nhà sản xuất</word>
+	</sentence>
+	<sentence>
+		Trong thời gian chờ đợi bản cập nhật, người dùng hạn chế bấm vào các đường link được gửi qua chat, email, không mở các file nếu chưa biết rõ nguồn gốc.
+		<word>chờ đợi</word>
+		<word>cập nhật</word>
+		<word>hạn chế</word>
+		<word>bấm</word>
+		<word>đường</word>
+		<word>link</word>
+		<word>gửi</word>
+		<word>chat</word>
+		<word>email</word>
+		<word>file</word>
+		<word>nguồn gốc</word>
+	</sentence>
+	<sentence>
+		Qualcomm cũng cho biết, đã phát hành các bản vá cho các lỗ hổng và kêu gọi các nhà sản xuất thiết bị (OEMs) cập nhật sớm nhất có thể.
+		<word>qualcomm</word>
+		<word>phát hành</word>
+		<word>bản vá</word>
+		<word>lỗ hổng</word>
+		<word>kêu gọi</word>
+		<word>nhà sản xuất</word>
+		<word>thiết bị</word>
+		<word>oems</word>
+		<word>cập nhật</word>
+	</sentence>
+	<sentence>
+		Tuy nhiên, cho đến khi các bản vá được triển khai rộng rãi, người dùng các thiết bị ảnh hưởng bởi lỗ hổng vẫn sẽ đối diện nguy cơ tấn công.
+		<word>vá</word>
+		<word>triển khai</word>
+		<word>rộng rãi</word>
+		<word>thiết bị</word>
+		<word>ảnh hưởng</word>
+		<word>lỗ hổng</word>
+		<word>đối diện</word>
+		<word>nguy cơ</word>
+		<word>tấn công</word>
+	</sentence>
+</document>

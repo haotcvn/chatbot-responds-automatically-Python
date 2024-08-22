@@ -1,0 +1,486 @@
+<?xml version="1.0" ?>
+<document>
+	<sentence>
+		Quy hoạch băng tần 3.560-4.000 MHz cho 5G, cơ sở để đấu giá băng tần và thương mại hóa 5G.
+		<word>quy hoạch</word>
+		<word>băng</word>
+		<word>tần 3.560</word>
+		<word>4.000</word>
+		<word>mhz</word>
+		<word>5g</word>
+		<word>cơ sở</word>
+		<word>đấu giá</word>
+		<word>băng tần</word>
+		<word>thương mại</word>
+		<word>hóa 5g</word>
+	</sentence>
+	<sentence>
+		Bộ trưởng Bộ Thông tin và Truyền thông vừa ký ban hành Thông tư số 13/2023/TT-BTTTT quy hoạch băng tần 3560-4000 MHz cho hệ thống thông tin di động mặt đất công cộng IMT của Việt Nam….
+		<word>bộ trưởng</word>
+		<word>thông tin</word>
+		<word>truyền thông</word>
+		<word>ký</word>
+		<word>ban hành</word>
+		<word>thông tư</word>
+		<word>13/2023</word>
+		<word>tt-btttt</word>
+		<word>quy hoạch</word>
+		<word>băng tần</word>
+		<word>3560</word>
+		<word>4000</word>
+		<word>mhz</word>
+		<word>hệ thống</word>
+		<word>thông tin</word>
+		<word>di động</word>
+		<word>mặt đất</word>
+		<word>công cộng</word>
+		<word>imt</word>
+		<word>việt nam</word>
+		<word>…</word>
+	</sentence>
+	<sentence>
+		Thông tư được xem là cơ sở pháp lý quan trọng cho Bộ Thông tin và Truyền thông tiến hành các bước tiếp theo để đấu giá băng tần triển khai thương mại hóa 5G.
+		<word>thông tư</word>
+		<word>cơ sở</word>
+		<word>pháp lý</word>
+		<word>thông tin</word>
+		<word>truyền thông</word>
+		<word>tiến hành</word>
+		<word>đấu giá</word>
+		<word>băng tần</word>
+		<word>triển khai</word>
+		<word>thương mại</word>
+		<word>hóa 5g</word>
+	</sentence>
+	<sentence>
+		Theo thông tư, băng tần 3560-4000 MHz được quy hoạch cho hệ thống thông tin di động mặt đất công cộng IMT gồm những nội dung chính sau:
+
+Thứ nhất, băng tần 3560-4000 MHz được sử dụng để triển khai hệ thống thông tin di động mặt đất công cộng theo tiêu chuẩn IMT-2020 và các phiên bản tiếp theo (từ công nghệ 5G trở lên).
+		<word>thông tư</word>
+		<word>băng tần</word>
+		<word>3560</word>
+		<word>4000</word>
+		<word>mhz</word>
+		<word>quy hoạch</word>
+		<word>hệ thống</word>
+		<word>thông tin</word>
+		<word>di động</word>
+		<word>mặt đất</word>
+		<word>công cộng</word>
+		<word>imt</word>
+		<word>nội dung</word>
+		<word>băng tần</word>
+		<word>3560</word>
+		<word>4000</word>
+		<word>mhz</word>
+		<word>triển khai</word>
+		<word>hệ thống</word>
+		<word>thông tin</word>
+		<word>di động</word>
+		<word>mặt đất</word>
+		<word>công cộng</word>
+		<word>tiêu chuẩn</word>
+		<word>imt-2020</word>
+		<word>phiên bản</word>
+		<word>công nghệ</word>
+		<word>5g</word>
+		<word>trở</word>
+	</sentence>
+	<sentence>
+		Thứ hai, ngoại trừ các đoạn băng tần 3560-3600 MHz và 3980-4000 MHz được sử dụng làm băng tần bảo vệ, phần băng tần còn lại (3600-3980 MHz) được quy hoạch phân chia làm 04 khối băng tần C1, C2, C3 và C4.
+		<word>hai</word>
+		<word>ngoại trừ</word>
+		<word>đoạn</word>
+		<word>băng tần</word>
+		<word>3560</word>
+		<word>3600</word>
+		<word>mhz</word>
+		<word>3980</word>
+		<word>4000</word>
+		<word>mhz</word>
+		<word>băng tần</word>
+		<word>bảo vệ</word>
+		<word>băng tần</word>
+		<word>3600</word>
+		<word>3980</word>
+		<word>mhz</word>
+		<word>quy hoạch</word>
+		<word>phân chia</word>
+		<word>04</word>
+		<word>khối</word>
+		<word>băng</word>
+		<word>tần c1</word>
+		<word>c2</word>
+		<word>c3</word>
+		<word>c4</word>
+	</sentence>
+	<sentence>
+		Độ rộng tương ứng của các khối là 100 MHz, 100 MHz, 100 MHz, 80 MHz và được sử dụng theo phương thức song công phân chia theo thời gian (Time Division Duplex).
+		<word>độ</word>
+		<word>rộng</word>
+		<word>tương ứng</word>
+		<word>khối</word>
+		<word>100</word>
+		<word>mhz</word>
+		<word>100</word>
+		<word>mhz</word>
+		<word>100</word>
+		<word>mhz</word>
+		<word>80</word>
+		<word>mhz</word>
+		<word>phương thức</word>
+		<word>song công</word>
+		<word>phân chia</word>
+		<word>time</word>
+		<word>division duplex</word>
+	</sentence>
+	<sentence>
+		Trong đó, các khối băng tần C2, C3, C4 có thể đưa vào sử dụng khi Thông tư có hiệu lực.
+		<word>khối</word>
+		<word>băng</word>
+		<word>tần c2</word>
+		<word>c3</word>
+		<word>c4</word>
+		<word>thông tư</word>
+		<word>hiệu lực</word>
+	</sentence>
+	<sentence>
+		Riêng thời điểm khối C1 được sử dụng do Bộ Thông tin và Truyền thông quyết định căn cứ vào khả năng xử lý nhiễu có hại cho các đài trái đất thuộc hệ thống cố định qua vệ tinh hoạt động trong băng tần 3400-3560 MHz.
+		<word>khối</word>
+		<word>c1</word>
+		<word>thông tin</word>
+		<word>truyền thông</word>
+		<word>quyết định</word>
+		<word>căn cứ</word>
+		<word>khả năng</word>
+		<word>xử lý nhiễu</word>
+		<word>hại</word>
+		<word>đài</word>
+		<word>trái đất</word>
+		<word>hệ thống</word>
+		<word>cố định</word>
+		<word>vệ tinh</word>
+		<word>hoạt động</word>
+		<word>băng tần</word>
+		<word>3400</word>
+		<word>3560</word>
+		<word>mhz</word>
+	</sentence>
+	<sentence>
+		Thứ ba, giới hạn tối đa tổng độ rộng băng tần mà một tổ chức được cấp phép sử dụng trong nhóm hai băng tần 2500-2600 MHz và 3600-3980 MHz (bao gồm cả khối C1 khi đưa vào sử dụng) là 200 MHz.
+		<word>giới hạn</word>
+		<word>tối đa</word>
+		<word>tổng độ</word>
+		<word>rộng</word>
+		<word>băng tần</word>
+		<word>tổ chức</word>
+		<word>phép</word>
+		<word>hai</word>
+		<word>băng tần</word>
+		<word>2500</word>
+		<word>2600</word>
+		<word>mhz</word>
+		<word>3600</word>
+		<word>3980</word>
+		<word>mhz</word>
+		<word>bao gồm</word>
+		<word>khối</word>
+		<word>c1</word>
+		<word>200</word>
+		<word>mhz</word>
+	</sentence>
+	<sentence>
+		Trước mắt, khi chưa đưa khối C1 vào sử dụng thì áp dụng mức giới hạn 180 MHz đối với băng tần 2500-2600 MHz và 3700-3980 MHz.
+		<word>trước mắt</word>
+		<word>khối</word>
+		<word>c1</word>
+		<word>áp dụng</word>
+		<word>giới hạn</word>
+		<word>180</word>
+		<word>mhz</word>
+		<word>băng tần</word>
+		<word>2500</word>
+		<word>2600</word>
+		<word>mhz</word>
+		<word>3700</word>
+		<word>3980</word>
+		<word>mhz</word>
+	</sentence>
+	<sentence>
+		Việc phân chia các khối băng tần và giới hạn lượng băng tần một doanh nghiệp được sở hữu nhằm bảo đảm các nguyên tắc cơ bản của Luật Tần số vô tuyến điện về lập quy hoạch là phù hợp với xu hướng phát triển công nghệ trên thế giới, phù hợp với quy hoạch hạ tầng thông tin và truyền thông quốc gia, tránh tích tụ đối với băng tần sử dụng trong hoạt động viễn thông.
+		<word>phân chia</word>
+		<word>khối</word>
+		<word>băng tần</word>
+		<word>giới hạn</word>
+		<word>băng tần</word>
+		<word>doanh nghiệp</word>
+		<word>sở hữu</word>
+		<word>bảo đảm</word>
+		<word>nguyên tắc</word>
+		<word>cơ bản</word>
+		<word>luật</word>
+		<word>tần số</word>
+		<word>vô tuyến</word>
+		<word>điện</word>
+		<word>lập</word>
+		<word>quy hoạch</word>
+		<word>xu hướng</word>
+		<word>phát triển</word>
+		<word>công nghệ</word>
+		<word>thế giới</word>
+		<word>quy hoạch</word>
+		<word>hạ tầng</word>
+		<word>thông tin</word>
+		<word>truyền thông</word>
+		<word>quốc gia</word>
+		<word>tích tụ</word>
+		<word>băng tần</word>
+		<word>hoạt động</word>
+		<word>viễn thông</word>
+	</sentence>
+	<sentence>
+		Đồng thời phù hợp với chính sách của nhà nước về viễn thông là bảo đảm thị trường viễn thông cạnh tranh lành mạnh, phát triển bền vững, hài hòa.
+		<word>chính sách</word>
+		<word>nhà nước</word>
+		<word>viễn thông</word>
+		<word>bảo đảm</word>
+		<word>thị trường</word>
+		<word>viễn thông</word>
+		<word>cạnh tranh</word>
+		<word>lành mạnh</word>
+		<word>phát triển</word>
+		<word>bền vững</word>
+		<word>hài hòa</word>
+	</sentence>
+	<sentence>
+		Thứ tư, quy định một số điều kiện bổ sung áp dụng đối với các hệ thống thông tin di động IMT khi được cấp phép sử dụng trong băng tần này, các đài trái đất đang hoạt động trong băng tần này và các băng tần lân cận.
+		<word>tư</word>
+		<word>quy định</word>
+		<word>bổ sung</word>
+		<word>áp dụng</word>
+		<word>hệ thống</word>
+		<word>thông tin</word>
+		<word>di động</word>
+		<word>imt</word>
+		<word>phép</word>
+		<word>băng tần</word>
+		<word>đài</word>
+		<word>trái đất</word>
+		<word>hoạt động</word>
+		<word>băng tần</word>
+		<word>băng tần</word>
+		<word>lân cận</word>
+	</sentence>
+	<sentence>
+		Mục đích là để tránh nhiễu có hại cho các đài trái đất thuộc hệ thống cố định qua vệ tinh và các đài vô tuyến đo cao khi hoạt động trong các khu vực sân bay (chi tiết quy định tại Điều 3 Thông tư).
+		<word>mục đích</word>
+		<word>tránh nhiễu</word>
+		<word>hại</word>
+		<word>đài</word>
+		<word>trái đất</word>
+		<word>hệ thống</word>
+		<word>cố định</word>
+		<word>vệ tinh</word>
+		<word>đài</word>
+		<word>vô tuyến</word>
+		<word>đo</word>
+		<word>hoạt động</word>
+		<word>khu vực</word>
+		<word>sân bay</word>
+		<word>chi tiết</word>
+		<word>quy định</word>
+		<word>3</word>
+		<word>thông tư</word>
+	</sentence>
+	<sentence>
+		Thứ năm, quy định đối với các đài vệ tinh trái đất người dùng thuộc hệ thống cố định qua vệ tinh hoạt động trong băng tần 3560-4000 MHz và các băng tần liền kề (chi tiết tại Điều 4 Thông tư): Đài trái đất hoạt động trong băng tần 3560-4000 MHz phải chuyển đổi tần số hoạt động ra khỏi băng tần này trước ngày 01 tháng 4 năm 2024.
+		<word>quy định</word>
+		<word>đài vệ tinh</word>
+		<word>trái đất</word>
+		<word>hệ thống</word>
+		<word>cố định</word>
+		<word>vệ tinh</word>
+		<word>hoạt động</word>
+		<word>băng tần</word>
+		<word>3560</word>
+		<word>4000</word>
+		<word>mhz</word>
+		<word>băng tần</word>
+		<word>liền</word>
+		<word>kề</word>
+		<word>chi tiết</word>
+		<word>4</word>
+		<word>thông tư</word>
+		<word>đài</word>
+		<word>trái đất</word>
+		<word>hoạt động</word>
+		<word>băng tần</word>
+		<word>3560</word>
+		<word>4000</word>
+		<word>mhz</word>
+		<word>chuyển đổi</word>
+		<word>tần số</word>
+		<word>hoạt động</word>
+		<word>băng tần</word>
+		<word>01</word>
+		<word>4</word>
+		<word>2024</word>
+	</sentence>
+	<sentence>
+		Đài trái đất hoạt động trong băng tần 3400-3560 MHz và 4000-4200 MHz phải lắp đặt bộ lọc đáp ứng mức suy hao tối thiểu 60 dB đối với tín hiệu thu trong băng tần 3600-3980 MHz.
+		<word>đài</word>
+		<word>trái đất</word>
+		<word>hoạt động</word>
+		<word>băng tần</word>
+		<word>3400</word>
+		<word>3560</word>
+		<word>mhz</word>
+		<word>4000</word>
+		<word>4200</word>
+		<word>mhz</word>
+		<word>lắp đặt</word>
+		<word>lọc</word>
+		<word>đáp ứng</word>
+		<word>suy hao</word>
+		<word>tối thiểu</word>
+		<word>60</word>
+		<word>db</word>
+		<word>tín hiệu</word>
+		<word>thu</word>
+		<word>băng tần</word>
+		<word>3600</word>
+		<word>3980</word>
+		<word>mhz</word>
+	</sentence>
+	<sentence>
+		Thứ sáu, quy định trách nhiệm phối hợp xử lý nhiễu có hại giữa hệ thống IMT với các hệ thống khác (chi tiết tại Điều 5 Thông tư).
+		<word>sáu</word>
+		<word>quy định</word>
+		<word>trách nhiệm</word>
+		<word>phối hợp</word>
+		<word>xử lý nhiễu</word>
+		<word>hại</word>
+		<word>hệ thống</word>
+		<word>imt</word>
+		<word>hệ thống</word>
+		<word>chi tiết</word>
+		<word>5</word>
+		<word>thông tư</word>
+	</sentence>
+	<sentence>
+		Thông tư 13/2023/TT-BTTTT có hiệu lực thi hành kể từ ngày 7/1/2024.
+		<word>thông tư</word>
+		<word>13/2023</word>
+		<word>tt-btttt</word>
+		<word>hiệu lực</word>
+		<word>thi hành</word>
+		<word>7/1/2024</word>
+	</sentence>
+	<sentence>
+		Như vậy, Thông tư 13 có ý nghĩa quan trọng đối với kế hoạch thương mại hóa 5G tại Việt Nam; là định hướng cho doanh nghiệp trong việc nghiên cứu phát triển, sản xuất và sử dụng thiết bị 5G tại Việt Nam; đồng thời, là hướng dẫn kỹ thuật cho doanh nghiệp áp dụng khi sử dụng băng tần 3560-4000 MHz triển khai 5G nhằm tránh nhiễu có hại cho các hệ thống khác.
+		<word>thông tư</word>
+		<word>13</word>
+		<word>ý nghĩa</word>
+		<word>kế hoạch</word>
+		<word>thương mại</word>
+		<word>hóa 5g</word>
+		<word>việt nam</word>
+		<word>định hướng</word>
+		<word>doanh nghiệp</word>
+		<word>nghiên cứu</word>
+		<word>phát triển</word>
+		<word>sản xuất</word>
+		<word>thiết bị</word>
+		<word>5g</word>
+		<word>việt nam</word>
+		<word>hướng dẫn</word>
+		<word>kỹ thuật</word>
+		<word>doanh nghiệp</word>
+		<word>áp dụng</word>
+		<word>băng tần</word>
+		<word>3560</word>
+		<word>4000</word>
+		<word>mhz</word>
+		<word>triển khai</word>
+		<word>5g</word>
+		<word>tránh nhiễu</word>
+		<word>hại</word>
+		<word>hệ thống</word>
+	</sentence>
+	<sentence>
+		Theo Hiệp hội Thông tin di động toàn cầu (GSMA), mặc dù để triển khai mạng 5G hoàn chỉnh với đầy đủ các khả năng thì cần sử dụng các băng tần thấp (low-band), băng tần trung (mid-band) và băng tần cao (mmWave), tuy nhiên trong giai đoạn đầu triển khai 5G thì băng tần trung đóng vai trò quan trọng nhất.
+		<word>hiệp hội</word>
+		<word>thông tin</word>
+		<word>di động</word>
+		<word>toàn cầu</word>
+		<word>gsma</word>
+		<word>mặc dù</word>
+		<word>triển khai</word>
+		<word>mạng</word>
+		<word>5g</word>
+		<word>hoàn chỉnh</word>
+		<word>đầy đủ</word>
+		<word>khả năng</word>
+		<word>băng tần</word>
+		<word>low-band</word>
+		<word>băng</word>
+		<word>tần trung</word>
+		<word>mid-band</word>
+		<word>băng tần</word>
+		<word>mmwave</word>
+		<word>giai đoạn</word>
+		<word>đầu</word>
+		<word>triển khai</word>
+		<word>5g</word>
+		<word>băng tần trung đóng</word>
+		<word>vai trò</word>
+	</sentence>
+	<sentence>
+		Bởi vì các băng tần này có thể cân bằng giữa khả năng đáp ứng băng thông rộng, liên tục để cung cấp tốc độ cao và khả năng phủ sóng rộng.
+		<word>băng tần</word>
+		<word>cân bằng</word>
+		<word>khả năng</word>
+		<word>đáp ứng</word>
+		<word>băng thông</word>
+		<word>rộng</word>
+		<word>liên tục</word>
+		<word>cung cấp</word>
+		<word>tốc độ</word>
+		<word>khả năng</word>
+		<word>phủ sóng</word>
+		<word>rộng</word>
+	</sentence>
+	<sentence>
+		Theo Báo cáo quý 2/2023 của GSMA, đến hết quý 2/2023, số các mạng 5G sử dụng băng tần trung chiếm 71% tổng số mạng 5G đã triển khai.
+		<word>báo cáo</word>
+		<word>quý 2/2023</word>
+		<word>gsma</word>
+		<word>quý 2/2023</word>
+		<word>mạng</word>
+		<word>5g</word>
+		<word>băng tần</word>
+		<word>trung chiếm</word>
+		<word>71</word>
+		<word>tổng số</word>
+		<word>mạng</word>
+		<word>5g</word>
+		<word>triển khai</word>
+	</sentence>
+	<sentence>
+		Chính vì vậy, các quốc gia đều có định hướng, quy hoạch các băng tần trung, trọng tâm là các phần của băng tần 3400-4200 MHz để cấp phép cho các nhà mạng triển khai 5G.
+		<word>quốc gia</word>
+		<word>định hướng</word>
+		<word>quy hoạch</word>
+		<word>băng</word>
+		<word>tần trung</word>
+		<word>trọng tâm</word>
+		<word>băng tần</word>
+		<word>3400</word>
+		<word>4200</word>
+		<word>mhz</word>
+		<word>phép</word>
+		<word>nhà mạng</word>
+		<word>triển khai</word>
+		<word>5g</word>
+	</sentence>
+</document>

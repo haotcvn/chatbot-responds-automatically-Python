@@ -1,0 +1,76 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <link rel="stylesheet" href="{%static 'app/css/login.css'%}">
+    <title>Đăng nhập | ChatTCH</title>
+</head>
+
+<body>
+
+    <div class="container" id="container">
+        <span id="close-btn"><i class="fa-regular fa-circle-xmark"></i></span>
+        <div class="form-container sign-up">
+            <form action="" method="POST">
+                {% csrf_token %}
+                <input type="hidden" name="register" value="register">
+                <h1>Tạo tài khoản</h1>
+                <div class="social-icons">
+                    <a href="#" class="icon"><i class="fa-regular fa-circle-xmark"></i></a>
+                    <a href="#" class="icon"><i class="fa-brands fa-google-plus-g"></i></a>
+                    <a href="#" class="icon"><i class="fa-brands fa-facebook-f"></i></a>
+                    <a href="#" class="icon"><i class="fa-brands fa-github"></i></a>
+                    <a href="#" class="icon"><i class="fa-brands fa-linkedin-in"></i></a>
+                </div>
+                <span>Hoặc sử dụng email của bạn để đăng ký</span>
+                <input type="text" name="name" placeholder="Họ và tên">
+                <input type="email" name="email" placeholder="Địa chỉ Email">
+                <input type="password" name="password" placeholder="Mậ khẩu">
+                <button>Đăng ký</button>
+            </form>
+        </div>
+        <div class="form-container sign-in">
+            <form action="" method="POST">
+                {% csrf_token %}
+                <input type="hidden" name="login" value="login">
+                <h1>Đăng nhập</h1>
+                <div class="social-icons">
+                    <a href="#" class="icon"><i class="fa-brands fa-google-plus-g"></i></a>
+                    <a href="#" class="icon"><i class="fa-brands fa-facebook-f"></i></a>
+                    <a href="#" class="icon"><i class="fa-brands fa-github"></i></a>
+                    <a href="#" class="icon"><i class="fa-brands fa-linkedin-in"></i></a>
+                </div>
+                <span>Hoặc sử dụng mật khẩu email của bạn</span>
+                <input type="email" name="email" placeholder="Địa chỉ Email">
+                <input type="password" name="password" placeholder="Mật khẩu">
+                {% for message in messages %}
+                    <span{% if message.tags %} class="{{ message.tags }}"{% endif %}>{{ message }}</span>
+                {% endfor %}
+                <a href="#">Quên mật khẩu?</a>
+                <button>Đăng nhập</button>
+            </form>
+        </div>
+        <div class="toggle-container">
+            <div class="toggle">
+                <div class="toggle-panel toggle-left">
+                    <h1>Chào mừng trở lại!</h1>
+                    <p>Đăng nhập để sử dụng tất cả các tính năng</p>
+                    <button class="hidden" id="login">Đăng nhập</button>
+                </div>
+                <div class="toggle-panel toggle-right">
+                    <h1>Xin chào!</h1>
+                    <p>Đăng ký để sử dụng tất cả các tính năng</p>
+                    <button class="hidden" id="register">Đăng ký</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="{%static 'app/js/login.js'%}" defer></script>
+</body>
+
+</html>

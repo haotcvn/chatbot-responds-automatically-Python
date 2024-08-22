@@ -1,0 +1,341 @@
+<?xml version="1.0" ?>
+<document>
+	<sentence>
+		WinRAR dính lỗ hổng nghiêm trọng cho phép hacker chạy mã tùy ý trên máy nạn nhân.
+		<word>winrar</word>
+		<word>dính</word>
+		<word>lỗ hổng</word>
+		<word>nghiêm trọng</word>
+		<word>cho phép</word>
+		<word>hacker</word>
+		<word>chạy mã</word>
+		<word>tùy ý</word>
+		<word>máy</word>
+		<word>nạn nhân</word>
+	</sentence>
+	<sentence>
+		Lỗ hổng nghiêm trọng CVE-2023-40477 trên WinRAR, cho phép hacker nhúng mã độc, dễ dàng phân phát; từ đó, có thể thực thi chạy mã tùy ý trên máy tính của người dùng….
+		<word>lỗ hổng</word>
+		<word>nghiêm trọng</word>
+		<word>cve-2023-40477</word>
+		<word>winrar</word>
+		<word>cho phép</word>
+		<word>hacker</word>
+		<word>nhúng mã</word>
+		<word>độc</word>
+		<word>dễ dàng</word>
+		<word>phân phát</word>
+		<word>thực thi</word>
+		<word>chạy mã</word>
+		<word>tùy ý</word>
+		<word>máy tính</word>
+		<word>…</word>
+	</sentence>
+	<sentence>
+		Một nhà nghiên cứu bảo mật Goodbyeselene của Zero Day Initiative đã xác định được một lỗ hổng trong tiện ích WinRAR, một công cụ lưu trữ và nén tệp được sử dụng rộng rãi cho Windows.
+		<word>nhà nghiên cứu</word>
+		<word>bảo mật</word>
+		<word>goodbyeselene</word>
+		<word>zero</word>
+		<word>day initiative</word>
+		<word>xác định</word>
+		<word>lỗ hổng</word>
+		<word>tiện ích</word>
+		<word>winrar</word>
+		<word>công cụ</word>
+		<word>lưu trữ</word>
+		<word>nén</word>
+		<word>tệp</word>
+		<word>rộng rãi</word>
+		<word>windows</word>
+	</sentence>
+	<sentence>
+		Tiện ích này được phát hiện có lỗ hổng nghiêm trọng cao, được gắn nhãn là CVE-2023-40477.
+		<word>tiện ích</word>
+		<word>phát hiện</word>
+		<word>lỗ hổng</word>
+		<word>nghiêm trọng</word>
+		<word>gắn</word>
+		<word>nhãn</word>
+		<word>cve-2023-40477</word>
+	</sentence>
+	<sentence>
+		Lỗ hổng cho phép thực thi mã tùy ý từ xa trên máy tính khi mở tệp lưu trữ RAR được chế tạo đặc biệt với điểm CVSS là 7,8.
+		<word>lỗ hổng</word>
+		<word>cho phép</word>
+		<word>thực thi</word>
+		<word>mã</word>
+		<word>tùy ý</word>
+		<word>máy tính</word>
+		<word>tệp</word>
+		<word>lưu trữ</word>
+		<word>rar</word>
+		<word>chế tạo</word>
+		<word>cvss</word>
+		<word>7,8</word>
+	</sentence>
+	<sentence>
+		Điểm CVSS được tính bằng công thức bao gồm các chỉ số dựa trên lỗ hổng.
+		<word>cvss</word>
+		<word>công thức</word>
+		<word>bao gồm</word>
+		<word>chỉ số</word>
+		<word>dựa</word>
+		<word>lỗ hổng</word>
+	</sentence>
+	<sentence>
+		Điểm CVSS được lấy từ điểm trong ba nhóm này: Cơ sở, Tạm thời và Môi trường.
+		<word>cvss</word>
+		<word>cơ sở</word>
+		<word>tạm thời</word>
+		<word>môi trường</word>
+	</sentence>
+	<sentence>
+		Thang điểm nằm trong khoảng từ 0 đến 10, với số 0 biểu thị mức độ ít nghiêm trọng nhất và 10 biểu thị mức độ nghiêm trọng nhất.
+		<word>thang</word>
+		<word>nằm</word>
+		<word>0</word>
+		<word>10</word>
+		<word>0</word>
+		<word>biểu thị</word>
+		<word>mức độ</word>
+		<word>nghiêm trọng</word>
+		<word>10</word>
+		<word>biểu thị</word>
+		<word>mức độ</word>
+		<word>nghiêm trọng</word>
+	</sentence>
+	<sentence>
+		Lỗ hổng đã được root trong quá trình xử lý khối lượng thu hồi.
+		<word>lỗ hổng</word>
+		<word>root</word>
+		<word>khối lượng</word>
+		<word>thu hồi</word>
+	</sentence>
+	<sentence>
+		Nó phát sinh do không đủ xác thực dữ liệu do người dùng cung cấp.
+		<word>phát sinh</word>
+		<word>xác thực</word>
+		<word>dữ liệu</word>
+		<word>cung cấp</word>
+	</sentence>
+	<sentence>
+		Do đó, điều này có thể dẫn đến việc truy cập bộ nhớ vượt quá giới hạn của bộ đệm được phân bổ.
+		<word>truy cập</word>
+		<word>bộ nhớ</word>
+		<word>giới hạn</word>
+		<word>bộ đệm</word>
+		<word>phân bổ</word>
+	</sentence>
+	<sentence>
+		Trước đó, lỗ hổng đã được RARLAB chú ý vào ngày 8/6/2023, bởi một nhà nghiên cứu có tên là Goodbyeselene từ Zero Day Initiative.
+		<word>lỗ hổng</word>
+		<word>rarlab</word>
+		<word>chú ý</word>
+		<word>8/6/2023</word>
+		<word>nhà nghiên cứu</word>
+		<word>goodbyeselene</word>
+		<word>zero</word>
+		<word>day initiative</word>
+	</sentence>
+	<sentence>
+		Theo mô tả trong tư vấn của Zero Day Initiative, lỗ hổng này cho phép kẻ tấn công từ xa thực thi tùy ý mã trên các bản cài đặt RARLAB WinRAR bị ảnh hưởng.
+		<word>mô tả</word>
+		<word>tư vấn</word>
+		<word>zero</word>
+		<word>day initiative</word>
+		<word>lỗ hổng</word>
+		<word>cho phép</word>
+		<word>kẻ</word>
+		<word>tấn công</word>
+		<word>thực thi</word>
+		<word>tùy</word>
+		<word>ý mã</word>
+		<word>cài đặt</word>
+		<word>rarlab winrar</word>
+		<word>ảnh hưởng</word>
+	</sentence>
+	<sentence>
+		Ông Trần Minh Trí, Giám đốc vận hành Công ty cổ phần tin học Mi2, cho biết kẻ tấn công thực thi khởi tạo các “craft rar file” và phân phát tới người dùng.
+		<word>trần minh trí</word>
+		<word>giám đốc</word>
+		<word>vận hành</word>
+		<word>công ty</word>
+		<word>cổ phần</word>
+		<word>tin học</word>
+		<word>mi2</word>
+		<word>kẻ</word>
+		<word>tấn công</word>
+		<word>thực thi</word>
+		<word>khởi tạo</word>
+		<word>“</word>
+		<word>craft rar</word>
+		<word>file</word>
+		<word>”</word>
+		<word>phân phát</word>
+	</sentence>
+	<sentence>
+		Người dùng đang sử dụng phiên bản có lỗ hổng và mở các file này sẽ dễ bị tấn công.
+		<word>phiên bản</word>
+		<word>lỗ hổng</word>
+		<word>file</word>
+		<word>tấn công</word>
+	</sentence>
+	<sentence>
+		Từ đó, kẻ tấn công có thể thực thi chạy mã tùy ý trên máy tính của người dùng.
+		<word>kẻ</word>
+		<word>tấn công</word>
+		<word>thực thi</word>
+		<word>chạy mã</word>
+		<word>tùy ý</word>
+		<word>máy tính</word>
+	</sentence>
+	<sentence>
+		Và khả năng tấn công và khai thác là không khó và đây được xem là lỗ hổng bảo mật mức cao và tiềm ẩn nguy cơ người dùng bị tấn công cũng rất cao.
+		<word>khả năng</word>
+		<word>tấn công</word>
+		<word>khai thác</word>
+		<word>lỗ hổng</word>
+		<word>bảo mật</word>
+		<word>tiềm ẩn</word>
+		<word>nguy cơ</word>
+		<word>tấn công</word>
+	</sentence>
+	<sentence>
+		Để giải quyết lỗ hổng này, WinRAR đã phát hành phiên bản 6.23.
+		<word>giải quyết</word>
+		<word>lỗ hổng</word>
+		<word>winrar</word>
+		<word>phát hành</word>
+		<word>phiên bản</word>
+		<word>6.23</word>
+	</sentence>
+	<sentence>
+		Người dùng WinRAR được khuyến khích cập nhật phần mềm của họ để ngăn chặn khả năng bị các tác nhân độc hại khai thác.
+		<word>winrar</word>
+		<word>khuyến khích</word>
+		<word>cập nhật</word>
+		<word>phần mềm</word>
+		<word>ngăn chặn</word>
+		<word>khả năng</word>
+		<word>tác nhân</word>
+		<word>độc hại</word>
+		<word>khai thác</word>
+	</sentence>
+	<sentence>
+		Hiện tại, Microsoft đang thử nghiệm hỗ trợ riêng trên Windows 11 cho các tệp RAR, 7-Zip và GZ.
+		<word>microsoft</word>
+		<word>thử nghiệm</word>
+		<word>windows</word>
+		<word>11</word>
+		<word>tệp rar</word>
+		<word>7</word>
+		<word>zip</word>
+		<word>gz</word>
+	</sentence>
+	<sentence>
+		Vì vậy, phần mềm của bên thứ ba như WinRAR sẽ không thực sự cần thiết trừ khi người dùng cần các tính năng nâng cao của nó.
+		<word>phần mềm</word>
+		<word>winrar</word>
+		<word>cần thiết trừ</word>
+		<word>tính năng</word>
+		<word>nâng</word>
+	</sentence>
+	<sentence>
+		Để chủ động bảo vệ, chuyên gia Trần Minh Trí cũng khuyến cáo người dùng người dùng và tổ chức cần chủ động cập nhật WinRAR lên phiên bản mới nhất (tối thiểu phiên bản WinRAR 6.23 final released) để vá lỗ hổng bảo mật này.
+		<word>chủ động</word>
+		<word>bảo vệ</word>
+		<word>chuyên gia</word>
+		<word>trần minh trí</word>
+		<word>khuyến cáo</word>
+		<word>tổ chức</word>
+		<word>chủ động</word>
+		<word>cập nhật</word>
+		<word>winrar</word>
+		<word>phiên bản</word>
+		<word>tối thiểu</word>
+		<word>phiên bản</word>
+		<word>winrar 6.23</word>
+		<word>final</word>
+		<word>released</word>
+		<word>vá</word>
+		<word>lỗ hổng</word>
+		<word>bảo mật</word>
+	</sentence>
+	<sentence>
+		Trong trường hợp chưa cập nhật lên được phiên bản mới nhất đã đề cập, người dùng cần để ý không mở các file nén (RAR) được gửi/chia sẻ từ người lạ.
+		<word>trường hợp</word>
+		<word>cập nhật</word>
+		<word>phiên bản</word>
+		<word>đề cập</word>
+		<word>để ý</word>
+		<word>file nén</word>
+		<word>rar</word>
+		<word>gửi</word>
+		<word>lạ</word>
+	</sentence>
+	<sentence>
+		Hiện nay, chi tiết kỹ thuật khai thác lỗ hổng chưa được công bố nên hầu hết các hệ thống bảo mật chưa có được mẫu (signature) để phát hiện và ngăn chặn tấn công vào lỗ hổng bảo mật này.
+		<word>chi tiết</word>
+		<word>kỹ thuật</word>
+		<word>khai thác</word>
+		<word>lỗ hổng</word>
+		<word>công bố</word>
+		<word>hệ thống</word>
+		<word>bảo mật</word>
+		<word>mẫu</word>
+		<word>signature</word>
+		<word>phát hiện</word>
+		<word>ngăn chặn</word>
+		<word>tấn công</word>
+		<word>lỗ hổng</word>
+		<word>bảo mật</word>
+	</sentence>
+	<sentence>
+		Ngoài ra, khuyến cáo các tổ chức chủ động áp dụng các biện pháp giám sát an ninh nâng cao để phát hiện các bất thường và ứng phó trong các trường hợp kẻ tấn công khai thác và thực thi các hành vi bất thường trên máy/hệ thống đích.
+		<word>khuyến cáo</word>
+		<word>tổ chức</word>
+		<word>chủ động</word>
+		<word>áp dụng</word>
+		<word>biện pháp</word>
+		<word>giám sát</word>
+		<word>an ninh</word>
+		<word>nâng</word>
+		<word>phát hiện</word>
+		<word>bất thường</word>
+		<word>ứng phó</word>
+		<word>trường hợp</word>
+		<word>kẻ</word>
+		<word>tấn công</word>
+		<word>khai thác</word>
+		<word>thực thi</word>
+		<word>hành vi</word>
+		<word>bất thường</word>
+		<word>máy</word>
+		<word>hệ thống</word>
+		<word>đích</word>
+	</sentence>
+	<sentence>
+		Đồng thời, thực hiện lập lịch update thường xuyên các hệ thống bảo mật (Anti-Malware, EDR, Firewall/IPS/Email Gateway/Web Gateway, ...) để có thể cập nhật bộ nhận diện tấn công ngay khi các nhà cung cấp release ra.
+		<word>lập</word>
+		<word>lịch</word>
+		<word>update</word>
+		<word>thường xuyên</word>
+		<word>hệ thống</word>
+		<word>bảo mật</word>
+		<word>anti-malware</word>
+		<word>edr</word>
+		<word>firewall</word>
+		<word>ips</word>
+		<word>email</word>
+		<word>gateway</word>
+		<word>web</word>
+		<word>gateway</word>
+		<word>...</word>
+		<word>cập nhật</word>
+		<word>nhận diện</word>
+		<word>tấn công</word>
+		<word>nhà cung cấp</word>
+		<word>release</word>
+	</sentence>
+</document>

@@ -1,0 +1,502 @@
+<?xml version="1.0" ?>
+<document>
+	<sentence>
+		Mô hình AI nguồn mở Llama 3 đủ mạnh để đưa Meta dẫn đầu cuộc đua AI.
+		<word>mô hình</word>
+		<word>llama</word>
+		<word>3</word>
+		<word>meta</word>
+		<word>dẫn đầu</word>
+		<word>đua</word>
+	</sentence>
+	<sentence>
+		Meta mới đây đã ra mắt phiên bản cập nhật của mô hình Llama AI miễn phí, Llama 3.
+		<word>meta</word>
+		<word>ra mắt</word>
+		<word>phiên bản</word>
+		<word>cập nhật</word>
+		<word>mô hình</word>
+		<word>llama</word>
+		<word>miễn phí</word>
+		<word>llama</word>
+		<word>3</word>
+	</sentence>
+	<sentence>
+		Hay chính xác hơn, gã khổng lồ này mới phát hành hai mô hình thuộc dòng Llama 3 mới, mô hình còn lại vẫn đang trong quá trình đào tạo….
+		<word>chính xác</word>
+		<word>gã</word>
+		<word>khổng lồ</word>
+		<word>phát hành</word>
+		<word>hai</word>
+		<word>mô hình</word>
+		<word>dòng</word>
+		<word>llama</word>
+		<word>3</word>
+		<word>mô hình</word>
+		<word>đào tạo</word>
+		<word>…</word>
+	</sentence>
+	<sentence>
+		Hai mô hình mới – Llama 3 8B chứa 8 tỷ tham số và Llama 3 70B chứa 70 tỷ tham số, là “bước nhảy vọt lớn” về mô hình ngôn ngữ lớn của Meta.
+		<word>hai</word>
+		<word>mô hình</word>
+		<word>–</word>
+		<word>llama</word>
+		<word>3</word>
+		<word>8b</word>
+		<word>chứa</word>
+		<word>8</word>
+		<word>tỷ</word>
+		<word>tham số</word>
+		<word>llama</word>
+		<word>3</word>
+		<word>70b</word>
+		<word>chứa</word>
+		<word>70</word>
+		<word>tỷ</word>
+		<word>tham số</word>
+		<word>“</word>
+		<word>bước nhảy vọt</word>
+		<word>”</word>
+		<word>mô hình</word>
+		<word>ngôn ngữ</word>
+		<word>meta</word>
+	</sentence>
+	<sentence>
+		Mô hình Llama 3 còn lại với kích thước hơn 400 tỷ tham số vẫn đang được gã khổng lồ đào tạo.
+		<word>mô hình</word>
+		<word>llama</word>
+		<word>3</word>
+		<word>kích thước</word>
+		<word>400</word>
+		<word>tỷ</word>
+		<word>tham số</word>
+		<word>gã</word>
+		<word>khổng lồ</word>
+		<word>đào tạo</word>
+	</sentence>
+	<sentence>
+		Mô hình này được tiết lộ có khả năng “giao tiếp bằng nhiều ngôn ngữ”, thu thập nhiều dữ liệu hơn và hiểu nhiều phương thức khác bên cạnh văn bản...
+
+Meta viết trong một bài đăng trên blog: “Mục tiêu của chúng tôi trong tương lai gần là làm cho Llama 3 trở nên đa ngôn ngữ và đa phương thức, có khả năng hiểu ngữ cảnh dài hơn và tiếp tục cải thiện hiệu suất tổng thể trên các mô hình ngôn ngữ lớn cốt lõi như lý luận và mã hóa”.
+		<word>mô hình</word>
+		<word>tiết lộ</word>
+		<word>khả năng</word>
+		<word>“</word>
+		<word>giao tiếp</word>
+		<word>ngôn ngữ</word>
+		<word>”</word>
+		<word>thu thập</word>
+		<word>dữ liệu</word>
+		<word>phương thức</word>
+		<word>cạnh</word>
+		<word>văn bản</word>
+		<word>...</word>
+		<word>meta</word>
+		<word>viết</word>
+		<word>đăng</word>
+		<word>blog</word>
+		<word>“</word>
+		<word>mục tiêu</word>
+		<word>tương lai</word>
+		<word>llama</word>
+		<word>3</word>
+		<word>trở nên</word>
+		<word>đa ngôn ngữ</word>
+		<word>đa</word>
+		<word>phương thức</word>
+		<word>khả năng</word>
+		<word>hiểu ngữ</word>
+		<word>cảnh</word>
+		<word>cải thiện</word>
+		<word>hiệu suất</word>
+		<word>tổng thể</word>
+		<word>mô hình</word>
+		<word>ngôn ngữ</word>
+		<word>cốt lõi</word>
+		<word>lý luận</word>
+		<word>mã hóa</word>
+		<word>”</word>
+	</sentence>
+	<sentence>
+		Theo công bố của Meta, Llama 3 8B vượt trội hơn các mô hình mở khác như Mistral 7B của Mistral và Gemma 7B của Google, trên ít nhất chín tiêu chuẩn AI: MMLU (lượng kiến thức), ARC (khả năng tiếp thu), DROP (khả năng lý luận), GPQA (kiến thức vật lý và hóa học), HumanEval (bài kiểm tra tạo mã), GSM-8K (bài toán đố), MATH (một chuẩn mực toán học khác), AGIEval (bộ bài kiểm tra giải quyết vấn đề) và BIG-Bench Hard (đánh giá lý luận thông thường).
+		<word>công bố</word>
+		<word>meta</word>
+		<word>llama</word>
+		<word>3</word>
+		<word>8b</word>
+		<word>vượt trội</word>
+		<word>mô hình</word>
+		<word>mistral 7b</word>
+		<word>mistral</word>
+		<word>gemma 7b</word>
+		<word>google</word>
+		<word>chín</word>
+		<word>tiêu chuẩn</word>
+		<word>mmlu</word>
+		<word>kiến thức</word>
+		<word>arc</word>
+		<word>khả năng</word>
+		<word>tiếp thu</word>
+		<word>drop</word>
+		<word>khả năng</word>
+		<word>lý luận</word>
+		<word>gpqa</word>
+		<word>kiến thức</word>
+		<word>vật lý</word>
+		<word>hóa học</word>
+		<word>humaneval</word>
+		<word>kiểm tra</word>
+		<word>tạo mã</word>
+		<word>gsm-8k</word>
+		<word>bài toán đố</word>
+		<word>math</word>
+		<word>chuẩn mực</word>
+		<word>toán học</word>
+		<word>agieval</word>
+		<word>kiểm tra</word>
+		<word>giải quyết</word>
+		<word>big-bench hard</word>
+		<word>lý luận</word>
+		<word>thông thường</word>
+	</sentence>
+	<sentence>
+		Trong khi đó, Llama 3 70B đánh bại Gemini 1.5 Pro trên các tiêu chuẩn MMLU, HumanEval và GSM-8K.
+		<word>llama</word>
+		<word>3</word>
+		<word>70b</word>
+		<word>đánh bại</word>
+		<word>gemini</word>
+		<word>1.5 pro</word>
+		<word>tiêu chuẩn</word>
+		<word>mmlu</word>
+		<word>humaneval</word>
+		<word>gsm-8k</word>
+	</sentence>
+	<sentence>
+		Mặc dù vậy, theo Techcrunch, tính hữu ích của các tiêu chuẩn này vẫn còn đang được tranh luận.
+		<word>mặc dù</word>
+		<word>techcrunch</word>
+		<word>hữu ích</word>
+		<word>tiêu chuẩn</word>
+		<word>tranh luận</word>
+	</sentence>
+	<sentence>
+		Nhưng dù sao, chúng vẫn là một trong những tiêu chuẩn để các công ty AI như Meta đánh giá mô hình của họ.
+		<word>tiêu chuẩn</word>
+		<word>công ty</word>
+		<word>meta</word>
+		<word>mô hình</word>
+	</sentence>
+	<sentence>
+		Meta được các nhà quan sát đánh giá là một trong những Big Tech dẫn đầu trong việc sẵn sàng chi tiêu cho việc đào tạo và chạy các mô hình nguồn mở.
+		<word>meta</word>
+		<word>nhà quan sát</word>
+		<word>big tech</word>
+		<word>dẫn đầu</word>
+		<word>sẵn sàng</word>
+		<word>chi tiêu</word>
+		<word>đào tạo</word>
+		<word>chạy</word>
+		<word>mô hình</word>
+	</sentence>
+	<sentence>
+		Vào tháng 1, Mark Zuckerberg thông tin Meta đang chi hàng tỷ USD cho chip Nvidia AI, đến cuối năm 2024, cơ sở hạ tầng máy tính của công ty sẽ bao gồm 350.000 chiếc H100.
+		<word>1</word>
+		<word>mark zuckerberg</word>
+		<word>thông tin</word>
+		<word>meta</word>
+		<word>chi</word>
+		<word>hàng</word>
+		<word>tỷ</word>
+		<word>usd</word>
+		<word>chip</word>
+		<word>nvidia</word>
+		<word>2024</word>
+		<word>cơ sở hạ tầng</word>
+		<word>máy tính</word>
+		<word>công ty</word>
+		<word>bao gồm</word>
+		<word>350.000</word>
+		<word>h100</word>
+	</sentence>
+	<sentence>
+		Xong, Meta vẫn cam kết cung cấp trải nghiệm miễn phí các mô hình cho người dùng.
+		<word>xong</word>
+		<word>meta</word>
+		<word>cam kết</word>
+		<word>cung cấp</word>
+		<word>trải nghiệm</word>
+		<word>miễn phí</word>
+		<word>mô hình</word>
+	</sentence>
+	<sentence>
+		Thế nhưng thị trường mô hình mở cũng đang dần sôi động với sự xuất hiện của Mistral.
+		<word>thị trường</word>
+		<word>mô hình</word>
+		<word>dần</word>
+		<word>sôi động</word>
+		<word>mistral</word>
+	</sentence>
+	<sentence>
+		Mistral có trụ sở tại Paris, được sáng lập bởi các cựu nhà nghiên cứu của Meta.
+		<word>mistral</word>
+		<word>trụ sở</word>
+		<word>paris</word>
+		<word>sáng lập</word>
+		<word>cựu</word>
+		<word>nhà nghiên cứu</word>
+		<word>meta</word>
+	</sentence>
+	<sentence>
+		Công ty này đã tạo ra cú nổ đầu tiên vào tháng 6/2023, sau đó tiếp tục tích cực phát hành nhiều mô hình nguồn mở và được đón nhận nồng nhiệt.
+		<word>công ty</word>
+		<word>cú</word>
+		<word>nổ</word>
+		<word>6/2023</word>
+		<word>tích cực</word>
+		<word>phát hành</word>
+		<word>mô hình</word>
+		<word>đón nhận</word>
+		<word>nồng nhiệt</word>
+	</sentence>
+	<sentence>
+		Trong khi đó, các mô hình độc quyền do OpenAI, Google và Anthropic ngày càng nâng cấp thêm nhiều khả năng hơn.
+		<word>mô hình</word>
+		<word>độc quyền</word>
+		<word>openai</word>
+		<word>google</word>
+		<word>anthropic</word>
+		<word>nâng cấp</word>
+		<word>khả năng</word>
+	</sentence>
+	<sentence>
+		Hai tháng trước, Google đã phát hành Gemma, các mô hình mở được xây dựng từ nghiên cứu và công nghệ tương tự như Gemini độc quyền của hãng.
+		<word>hai</word>
+		<word>google</word>
+		<word>phát hành</word>
+		<word>gemma</word>
+		<word>mô hình</word>
+		<word>xây dựng</word>
+		<word>nghiên cứu</word>
+		<word>công nghệ</word>
+		<word>tương tự</word>
+		<word>gemini</word>
+		<word>độc quyền</word>
+		<word>hãng</word>
+	</sentence>
+	<sentence>
+		Bên cạnh đó, cuộc “đi săn” nhân tài AI tiếp tục nóng lên, với sự cạnh tranh khốc liệt giữa các nhà nghiên cứu hàng đầu và nhiều cựu kỹ sư của Big Tech nhảy việc thành lập công ty khởi nghiệp của riêng họ.
+		<word>cạnh</word>
+		<word>“</word>
+		<word>đi săn</word>
+		<word>”</word>
+		<word>nhân tài</word>
+		<word>nóng</word>
+		<word>cạnh tranh</word>
+		<word>khốc liệt</word>
+		<word>nhà nghiên cứu</word>
+		<word>hàng đầu</word>
+		<word>cựu</word>
+		<word>kỹ sư</word>
+		<word>big</word>
+		<word>tech nhảy</word>
+		<word>thành lập</word>
+		<word>công ty</word>
+		<word>khởi nghiệp</word>
+	</sentence>
+	<sentence>
+		Thời gian gần đây, Fortune đưa tin Meta đã chảy máu chất xám AI, khi một số lãnh đạo cấp cao, bao gồm cả giám đốc cấp cao về AI tạo sinh đã rời đi.
+		<word>fortune</word>
+		<word>meta</word>
+		<word>chảy máu</word>
+		<word>chất xám</word>
+		<word>lãnh đạo</word>
+		<word>bao gồm</word>
+		<word>giám đốc</word>
+		<word>tạo sinh</word>
+		<word>rời</word>
+		<word>đi</word>
+	</sentence>
+	<sentence>
+		Meta cho biết các mô hình Llama 3 — hiện có sẵn để tải xuống và hỗ trợ trợ lý Meta AI trên Facebook, Instagram, WhatsApp, Messenger và web.
+		<word>meta</word>
+		<word>mô hình</word>
+		<word>llama</word>
+		<word>3</word>
+		<word>—</word>
+		<word>hiện</word>
+		<word>sẵn</word>
+		<word>tải</word>
+		<word>trợ lý</word>
+		<word>meta</word>
+		<word>facebook</word>
+		<word>instagram</word>
+		<word>whatsapp</word>
+		<word>messenger</word>
+		<word>web</word>
+	</sentence>
+	<sentence>
+		“Chúng tôi tin rằng Meta AI hiện là trợ lý AI thông minh nhất mà bạn có thể tự do sử dụng”, Giám đốc điều hành Meta Mark Zuckerberg cho biết trong thông báo.
+		<word>“</word>
+		<word>meta</word>
+		<word>hiện</word>
+		<word>trợ lý</word>
+		<word>thông minh</word>
+		<word>tự do</word>
+		<word>”</word>
+		<word>giám đốc điều hành</word>
+		<word>meta</word>
+		<word>mark zuckerberg</word>
+		<word>thông báo</word>
+	</sentence>
+	<sentence>
+		Mô hình này cũng sẽ sớm được tích hợp vào trình quản lý trên nhiều nền tảng đám mây bao gồm AWS, Databricks, Google Cloud, Hugging Face, Kaggle, WatsonX của IBM, Microsoft Azure, NIM và Snowflake của Nvidia.
+		<word>mô hình</word>
+		<word>tích hợp</word>
+		<word>trình</word>
+		<word>quản lý</word>
+		<word>nền tảng</word>
+		<word>đám</word>
+		<word>mây</word>
+		<word>bao gồm</word>
+		<word>aws</word>
+		<word>databricks</word>
+		<word>google cloud</word>
+		<word>hugging face</word>
+		<word>kaggle</word>
+		<word>watsonx</word>
+		<word>ibm</word>
+		<word>microsoft azure</word>
+		<word>nim</word>
+		<word>snowflake</word>
+		<word>nvidia</word>
+	</sentence>
+	<sentence>
+		Meta không tiết lộ chi tiết cụ thể về loại dữ liệu nào được sử dụng để đào tạo Llama 3, ngoài việc nhấn mạnh rằng mô hình được đào tạo dựa trên “nhiều loại dữ liệu công khai”, bao gồm các bài đăng công khai trên Facebook và Instagram.
+		<word>meta</word>
+		<word>tiết lộ</word>
+		<word>chi tiết</word>
+		<word>dữ liệu</word>
+		<word>đào tạo</word>
+		<word>llama</word>
+		<word>3</word>
+		<word>nhấn mạnh</word>
+		<word>mô hình</word>
+		<word>đào tạo</word>
+		<word>dựa</word>
+		<word>“</word>
+		<word>dữ liệu</word>
+		<word>công khai</word>
+		<word>”</word>
+		<word>bao gồm</word>
+		<word>đăng</word>
+		<word>công khai</word>
+		<word>facebook</word>
+		<word>instagram</word>
+	</sentence>
+	<sentence>
+		Họ cho biết tập dữ liệu huấn luyện mới lớn gấp bảy lần so với tập dữ liệu được sử dụng để huấn luyện phiên bản trước đó, Llama 2 và bao gồm số lượng mã nhiều gấp bốn lần.
+		<word>tập</word>
+		<word>dữ liệu</word>
+		<word>huấn luyện</word>
+		<word>gấp</word>
+		<word>bảy</word>
+		<word>tập</word>
+		<word>dữ liệu</word>
+		<word>huấn luyện</word>
+		<word>phiên bản</word>
+		<word>llama</word>
+		<word>2</word>
+		<word>bao gồm</word>
+		<word>số lượng</word>
+		<word>mã</word>
+		<word>gấp</word>
+		<word>bốn</word>
+	</sentence>
+	<sentence>
+		Hơn 5% tập dữ liệu huấn luyện Llama 3 bao gồm “dữ liệu chất lượng cao từ 30 ngôn ngữ khác không phải tiếng anh”.
+		<word>5</word>
+		<word>tập</word>
+		<word>dữ liệu</word>
+		<word>huấn luyện</word>
+		<word>llama</word>
+		<word>3</word>
+		<word>bao gồm</word>
+		<word>“</word>
+		<word>dữ liệu</word>
+		<word>chất lượng</word>
+		<word>30</word>
+		<word>ngôn ngữ</word>
+		<word>tiếng</word>
+		<word>”</word>
+	</sentence>
+	<sentence>
+		Meta cũng cho biết họ đã tận dụng dữ liệu tổng hợp, tức là dữ liệu do AI tạo ra để tạo các tài liệu dài hơn.
+		<word>meta</word>
+		<word>tận dụng</word>
+		<word>dữ liệu</word>
+		<word>tổng hợp</word>
+		<word>tức là</word>
+		<word>dữ liệu</word>
+		<word>tài liệu</word>
+	</sentence>
+	<sentence>
+		“Chúng tôi nhận thấy rằng các thế hệ Llama trước đó rất giỏi trong việc xác định dữ liệu chất lượng cao, vì vậy chúng tôi đã sử dụng Llama 2 để xây dựng các bộ phân loại chất lượng văn bản”, Meta giải thích.
+		<word>“</word>
+		<word>thế hệ</word>
+		<word>llama</word>
+		<word>giỏi</word>
+		<word>xác định</word>
+		<word>dữ liệu</word>
+		<word>chất lượng</word>
+		<word>llama</word>
+		<word>2</word>
+		<word>xây dựng</word>
+		<word>phân loại</word>
+		<word>chất lượng</word>
+		<word>văn bản</word>
+		<word>”</word>
+		<word>meta</word>
+		<word>giải thích</word>
+	</sentence>
+	<sentence>
+		Meta cho biết họ đã phát triển các quy trình lọc dữ liệu mới để nâng cao chất lượng dữ liệu đào tạo mô hình, đồng thời phát triển cặp công cụ Llama Guard và CybersecEval để ngăn chặn việc lạm dụng và tạo văn bản không phù hợp từ Mô hình Llama 3 và những mô hình khác.
+		<word>meta</word>
+		<word>phát triển</word>
+		<word>quy trình</word>
+		<word>lọc</word>
+		<word>dữ liệu</word>
+		<word>nâng</word>
+		<word>chất lượng</word>
+		<word>dữ liệu</word>
+		<word>đào tạo</word>
+		<word>mô hình</word>
+		<word>phát triển</word>
+		<word>cặp</word>
+		<word>công cụ</word>
+		<word>llama guard</word>
+		<word>cyberseceval</word>
+		<word>ngăn chặn</word>
+		<word>lạm dụng</word>
+		<word>văn bản</word>
+		<word>mô hình</word>
+		<word>llama</word>
+		<word>3</word>
+		<word>mô hình</word>
+	</sentence>
+	<sentence>
+		Công ty cũng đang phát hành một công cụ mới, Code Shield, được thiết kế để phát hiện mã từ các mô hình AI tạo sinh có thể gây ra các lỗ hổng bảo mật.
+		<word>công ty</word>
+		<word>phát hành</word>
+		<word>công cụ</word>
+		<word>code shield</word>
+		<word>thiết kế</word>
+		<word>phát hiện</word>
+		<word>mã</word>
+		<word>mô hình</word>
+		<word>tạo sinh</word>
+		<word>lỗ hổng</word>
+		<word>bảo mật</word>
+	</sentence>
+</document>

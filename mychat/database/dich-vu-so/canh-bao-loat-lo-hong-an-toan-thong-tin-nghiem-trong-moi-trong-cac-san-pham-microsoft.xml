@@ -1,0 +1,311 @@
+<?xml version="1.0" ?>
+<document>
+	<sentence>
+		Cảnh báo loạt lỗ hổng an toàn thông tin nghiêm trọng mới trong các sản phẩm Microsoft.
+		<word>cảnh báo</word>
+		<word>loạt</word>
+		<word>lỗ hổng</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>nghiêm trọng</word>
+		<word>sản phẩm</word>
+		<word>microsoft</word>
+	</sentence>
+	<sentence>
+		Microsoft Exchange Server luôn là mục tiêu hàng đầu được các đối tượng tấn công có chủ đích nhắm đến.
+		<word>microsoft</word>
+		<word>exchange server</word>
+		<word>mục tiêu</word>
+		<word>hàng đầu</word>
+		<word>đối tượng</word>
+		<word>tấn công</word>
+		<word>chủ</word>
+		<word>đích nhắm</word>
+	</sentence>
+	<sentence>
+		Vì vậy, để đảm bảo an toàn thông tin cho hệ thống, các đơn vị doanh nghiệp cần rà soát lỗ hổng liên quan đến Microsoft Exchange Server để phát hiện và có phương án xử lý kịp thời, giảm thiểu nguy cơ bị tấn công.... Ngày 19/10, Cục An toàn thông tin, Bộ Thông tin và Truyền thông đã có cảnh báo tới các đơn vị chuyên trách công nghệ thông tin các Bộ, cơ quan thuộc Chính phủ; Sở Thông tin và Truyền thông các địa phương; Các Tập đoàn, Tổng công ty nhà nước; các Ngân hàng; các tổ chức tài chính….
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>hệ thống</word>
+		<word>doanh nghiệp</word>
+		<word>rà soát</word>
+		<word>lỗ hổng</word>
+		<word>microsoft</word>
+		<word>exchange server</word>
+		<word>phát hiện</word>
+		<word>phương án</word>
+		<word>kịp thời</word>
+		<word>giảm thiểu</word>
+		<word>nguy cơ</word>
+		<word>tấn công</word>
+		<word>....</word>
+		<word>19/10</word>
+		<word>cục</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>thông tin</word>
+		<word>truyền thông</word>
+		<word>cảnh báo</word>
+		<word>chuyên trách</word>
+		<word>công nghệ thông tin</word>
+		<word>cơ quan</word>
+		<word>chính phủ</word>
+		<word>sở</word>
+		<word>thông tin</word>
+		<word>truyền thông</word>
+		<word>địa phương</word>
+		<word>tập đoàn</word>
+		<word>tổng công ty</word>
+		<word>nhà nước</word>
+		<word>ngân hàng</word>
+		<word>tổ chức</word>
+		<word>tài chính</word>
+		<word>…</word>
+	</sentence>
+	<sentence>
+		về các lỗ hổng an toàn thông tin ảnh hưởng cao và nghiêm trọng trong các sản phẩm Microsoft công bố tháng 10/2023.
+		<word>lỗ hổng</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>ảnh hưởng</word>
+		<word>nghiêm trọng</word>
+		<word>sản phẩm</word>
+		<word>microsoft</word>
+		<word>công bố</word>
+		<word>10/2023</word>
+	</sentence>
+	<sentence>
+		Cục An toàn thông tin, cho biết Microsoft vừa phát hành danh sách bản vá tháng 10 với 103 lỗ hổng an toàn thông tin trong các sản phẩm của mình, trong đó đặc biệt chú ý vào các lỗ hổng có mức ảnh hưởng cao và nghiêm trọng.
+		<word>cục</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>microsoft</word>
+		<word>phát hành</word>
+		<word>danh sách</word>
+		<word>vá</word>
+		<word>10</word>
+		<word>103</word>
+		<word>lỗ hổng</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>sản phẩm</word>
+		<word>chú ý</word>
+		<word>lỗ hổng</word>
+		<word>ảnh hưởng</word>
+		<word>nghiêm trọng</word>
+	</sentence>
+	<sentence>
+		Cụ thể như lỗ hổng an toàn thông tin CVE-2023-36778 trong Microsoft Exchange Server cho phép đối tượng tấn công thực thi mã từ xa.
+		<word>lỗ hổng</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>cve-2023-36778</word>
+		<word>microsoft</word>
+		<word>exchange server</word>
+		<word>cho phép</word>
+		<word>đối tượng</word>
+		<word>tấn công</word>
+		<word>thực thi</word>
+		<word>mã</word>
+	</sentence>
+	<sentence>
+		Trung tâm Giám sát an toàn không gian mạng quốc gia (NCSC) đã phát hành các văn bản cảnh báo diện rộng về những lỗ hổng ảnh hưởng đến Microsoft Exchange Server.
+		<word>trung tâm</word>
+		<word>giám sát</word>
+		<word>an toàn</word>
+		<word>không gian mạng</word>
+		<word>quốc gia</word>
+		<word>ncsc</word>
+		<word>phát hành</word>
+		<word>văn bản</word>
+		<word>cảnh báo</word>
+		<word>diện</word>
+		<word>rộng</word>
+		<word>lỗ hổng</word>
+		<word>ảnh hưởng</word>
+		<word>microsoft</word>
+		<word>exchange server</word>
+	</sentence>
+	<sentence>
+		Điều này cho thấy Microsoft Exchange Server vẫn luôn là mục tiêu hàng đầu được các đối tượng tấn công có chủ đích nhắm đến.
+		<word>microsoft</word>
+		<word>exchange server</word>
+		<word>mục tiêu</word>
+		<word>hàng đầu</word>
+		<word>đối tượng</word>
+		<word>tấn công</word>
+		<word>chủ</word>
+		<word>đích nhắm</word>
+	</sentence>
+	<sentence>
+		Vì vậy, để bảo đảman toàn thông tin cho hệ thống của các cơ quan, tổ chức, Cục An toàn thông tin đề nghị các đơn vị rà soát lỗ hổng liên quan đến Microsoft Exchange Server để phát hiện và có phương án xử lý kịp thời, đồng thời tăng cường giám sát nhằm giảm thiểu nguy cơ bị tấn công thông qua các lỗ hổng này.
+		<word>bảo đảman</word>
+		<word>toàn</word>
+		<word>thông tin</word>
+		<word>hệ thống</word>
+		<word>cơ quan</word>
+		<word>tổ chức</word>
+		<word>cục</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>đề nghị</word>
+		<word>rà soát</word>
+		<word>lỗ hổng</word>
+		<word>microsoft</word>
+		<word>exchange server</word>
+		<word>phát hiện</word>
+		<word>phương án</word>
+		<word>kịp thời</word>
+		<word>tăng cường</word>
+		<word>giám sát</word>
+		<word>giảm thiểu</word>
+		<word>nguy cơ</word>
+		<word>tấn công</word>
+		<word>thông qua</word>
+		<word>lỗ hổng</word>
+	</sentence>
+	<sentence>
+		Cùng với đó là lỗ hổng an toàn thông tin CVE-2023-36563 trong Microsoft WordPad cho phép đối tượng tấn công thực hiện thu thập thông tin mã băm NTLM của người dùng.
+		<word>lỗ hổng</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>cve-2023-36563</word>
+		<word>microsoft wordpad</word>
+		<word>cho phép</word>
+		<word>đối tượng</word>
+		<word>tấn công</word>
+		<word>thu thập</word>
+		<word>thông tin</word>
+		<word>mã</word>
+		<word>băm ntlm</word>
+	</sentence>
+	<sentence>
+		Lỗ hổng hiện đang bị khai thác trong thực tế.
+		<word>lỗ</word>
+		<word>hổng</word>
+		<word>hiện</word>
+		<word>khai thác</word>
+	</sentence>
+	<sentence>
+		Lỗ hổng an toàn thông tin CVE-2023-41763 trong Skype for Business cho phép đối tượng tấn công thực hiện leo thang đặc quyền.
+		<word>lỗ</word>
+		<word>hổng</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>cve-2023-41763</word>
+		<word>skype for business</word>
+		<word>cho phép</word>
+		<word>đối tượng</word>
+		<word>tấn công</word>
+		<word>leo thang</word>
+		<word>đặc quyền</word>
+	</sentence>
+	<sentence>
+		Lỗ hổng hiện đang bị khai thác trong thực tế.
+		<word>lỗ</word>
+		<word>hổng</word>
+		<word>hiện</word>
+		<word>khai thác</word>
+	</sentence>
+	<sentence>
+		Riêng 2 lỗ hổng an toàn thông tin CVE-2023-35349, CVE-2023-36697 trong Microsoft Message Queuing cho phép đối tượng tấn công thực thi mã từ xa.
+		<word>2</word>
+		<word>lỗ hổng</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>cve-2023-35349</word>
+		<word>cve-2023-36697</word>
+		<word>microsoft</word>
+		<word>message queuing</word>
+		<word>cho phép</word>
+		<word>đối tượng</word>
+		<word>tấn công</word>
+		<word>thực thi</word>
+		<word>mã</word>
+	</sentence>
+	<sentence>
+		Lỗ hổng an toàn thông tin CVE-2023-36434 trong Windows IIS Server cho phép đối tượng tấn công thực hiện leo thang đặc quyền.
+		<word>lỗ</word>
+		<word>hổng</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>cve-2023-36434</word>
+		<word>windows</word>
+		<word>iis server</word>
+		<word>cho phép</word>
+		<word>đối tượng</word>
+		<word>tấn công</word>
+		<word>leo thang</word>
+		<word>đặc quyền</word>
+	</sentence>
+	<sentence>
+		Để bảo đảm an toàn thông tin cho hệ thống thông tin, góp phần bảo đảm an toàn cho không gian mạng Việt Nam, Cục An toàn thông tin khuyến nghị các đơn vị, doanh nghiệp cần kiểm tra, rà soát, xác định máy tính sử dụng hệ điều hành Windows có khả năng bị ảnh hưởng.
+		<word>bảo đảm</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>hệ thống</word>
+		<word>thông tin</word>
+		<word>góp phần</word>
+		<word>bảo đảm</word>
+		<word>an toàn</word>
+		<word>không gian mạng</word>
+		<word>việt nam</word>
+		<word>cục</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>khuyến nghị</word>
+		<word>doanh nghiệp</word>
+		<word>kiểm tra</word>
+		<word>rà soát</word>
+		<word>xác định</word>
+		<word>máy tính</word>
+		<word>hệ</word>
+		<word>điều hành</word>
+		<word>windows</word>
+		<word>khả năng</word>
+		<word>ảnh hưởng</word>
+	</sentence>
+	<sentence>
+		Thực hiện cập nhật bản vá kịp thời để tránh nguy cơ bị tấn công.
+		<word>cập nhật bản</word>
+		<word>vá</word>
+		<word>kịp thời</word>
+		<word>nguy cơ</word>
+		<word>tấn công</word>
+	</sentence>
+	<sentence>
+		Theo các chuyên gia, biện pháp tốt nhất để khắc phục là cập nhật bản vá cho các lỗ hổng trên theo hướng dẫn của hãng
+
+Đồng thời, tăng cường giám sát và sẵn sàng phương án xử lý khi phát hiện có dấu hiệu bị khai thác, tấn công mạng; đồng thời thường xuyên theo dõi kênh cảnh báo của các cơ quan chức năng và các tổ chức lớn về an toàn thông tin để phát hiện kịp thời các nguy cơ tấn công mạng.
+		<word>chuyên gia</word>
+		<word>biện pháp</word>
+		<word>khắc phục</word>
+		<word>cập nhật bản</word>
+		<word>vá</word>
+		<word>lỗ hổng</word>
+		<word>hướng dẫn</word>
+		<word>hãng</word>
+		<word>tăng cường</word>
+		<word>giám sát</word>
+		<word>sẵn sàng</word>
+		<word>phương án</word>
+		<word>phát hiện</word>
+		<word>dấu hiệu</word>
+		<word>khai thác</word>
+		<word>tấn công</word>
+		<word>mạng</word>
+		<word>thường xuyên</word>
+		<word>theo dõi</word>
+		<word>kênh</word>
+		<word>cảnh báo</word>
+		<word>cơ quan chức năng</word>
+		<word>tổ chức</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>phát hiện</word>
+		<word>kịp thời</word>
+		<word>nguy cơ</word>
+		<word>tấn công</word>
+		<word>mạng</word>
+	</sentence>
+</document>

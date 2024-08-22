@@ -1,0 +1,35 @@
+<!-- scraper.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Scraper - TCH</title>
+</head>
+<body>
+    <h2>Web Scraper - TCH</h2>
+    <form method="post" action="{% url 'scraper' %}">
+        {% csrf_token %}
+        <label for="url">Nhập URL:</label><br>
+        <input type="text" id="url" name="url" required><br><br>
+        
+        <label for="save_path">Chọn thư mục lưu:</label><br>
+        <input type="text" id="save_path" name="save_path" required readonly>
+        <button type="button" onclick="browseSavePath()">Chọn thư mục</button><br><br>
+        
+        <label for="start_page">Bắt đầu từ trang:</label><br>
+        <input type="number" id="start_page" name="start_page" value="1" required><br><br>
+        
+        <input type="submit" value="Bắt đầu">
+    </form>
+    
+    <p id="progress_label"></p>
+    
+    <script>
+        function browseSavePath() {
+            // Thay đổi phần này để sử dụng thư viện browse folder
+            alert('Chức năng chọn thư mục lưu sẽ được cập nhật sau');
+        }
+    </script>
+</body>
+</html>

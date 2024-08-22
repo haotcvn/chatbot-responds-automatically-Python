@@ -1,0 +1,670 @@
+<?xml version="1.0" ?>
+<document>
+	<sentence>
+		IoT đang đối mặt với rất nhiều nguy cơ tấn công mạng.
+		<word>iot</word>
+		<word>đối mặt</word>
+		<word>nguy cơ</word>
+		<word>tấn công</word>
+		<word>mạng</word>
+	</sentence>
+	<sentence>
+		IoT phát triển mạnh nhưng chưa được quan tâm đúng mức về bảo vệ an toàn thông tin đang tạo ra những lỗ hổng rủi ro nguy hiểm, là đích hướng tới của hacker tấn công khai thác, thậm chí đã vô tình trở thành một thành phần tham gia vào mạng botnet do các hacker điều khiển.
+		<word>iot</word>
+		<word>phát triển</word>
+		<word>đúng mức</word>
+		<word>bảo vệ</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>lỗ hổng</word>
+		<word>rủi ro</word>
+		<word>nguy hiểm</word>
+		<word>đích hướng</word>
+		<word>hacker</word>
+		<word>tấn công</word>
+		<word>khai thác</word>
+		<word>vô tình</word>
+		<word>thành phần</word>
+		<word>tham gia</word>
+		<word>mạng</word>
+		<word>botnet</word>
+		<word>hacker</word>
+		<word>điều khiển</word>
+	</sentence>
+	<sentence>
+		Khi IoT xuất hiện ngày càng nhiều, bề mặt tấn công sẽ ngày càng mở rộng, các mối đe dọa trở nên thường trực.... Theo thống kê, từ năm 2022 đến nay, số lượng kết nối Internet đã tăng 18% và dự kiến sẽ tăng lên gần 30% vào năm 2027.
+		<word>iot</word>
+		<word>bề mặt</word>
+		<word>tấn công</word>
+		<word>mở rộng</word>
+		<word>đe</word>
+		<word>dọa</word>
+		<word>trở nên</word>
+		<word>thường trực</word>
+		<word>....</word>
+		<word>thống kê</word>
+		<word>2022</word>
+		<word>số lượng</word>
+		<word>kết nối</word>
+		<word>internet</word>
+		<word>18</word>
+		<word>dự kiến</word>
+		<word>30</word>
+		<word>2027</word>
+	</sentence>
+	<sentence>
+		Các thiết bị kết nối hệ sinh thái IoT đã tăng trưởng và xuất hiện mọi lúc, mọi nơi.
+		<word>thiết bị</word>
+		<word>kết nối</word>
+		<word>hệ sinh thái</word>
+		<word>iot</word>
+		<word>tăng trưởng</word>
+	</sentence>
+	<sentence>
+		Công nghệ số, IoT đã được ứng dụng bao trùm trong mọi lĩnh vực kể cả nông nghiệp, y tế, giao thông, ngôi nhà và các thiết bị sinh hoạt hàng ngày.
+		<word>công nghệ số</word>
+		<word>iot</word>
+		<word>ứng dụng</word>
+		<word>bao trùm</word>
+		<word>lĩnh vực</word>
+		<word>nông nghiệp</word>
+		<word>y tế</word>
+		<word>giao thông</word>
+		<word>thiết bị</word>
+		<word>sinh hoạt</word>
+		<word>hàng</word>
+	</sentence>
+	<sentence>
+		Tại hội thảo bảo mật thiết bị IoT bằng miễn dịch không gian mạng do Cục an toàn thông tin (Bộ thông tin và Truyền thông) và công ty an ninh mạng Kaspersky tổ chức ngày 12/9/2023, bà Genie Sugene Gan, Giám đốc phụ trách quan hệ chính phủ và chính sách công khu vực châu Á- Thái Bình Dương, Nhật Bản, Trung Đông, Thổ Nhĩ Kỳ và châu Phi, công ty Kaspersky khẳng định, chúng ta đang sống trong kỷ nguyên Internet vạn vật trong đó có đến hàng tỷ thiết bị IoT đã và đang được ứng dụng trong thực tế cuộc sống hàng ngày.
+		<word>hội thảo</word>
+		<word>bảo mật</word>
+		<word>thiết bị</word>
+		<word>iot</word>
+		<word>miễn dịch</word>
+		<word>không gian</word>
+		<word>mạng</word>
+		<word>cục</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>thông tin</word>
+		<word>truyền thông</word>
+		<word>công ty</word>
+		<word>an ninh</word>
+		<word>mạng</word>
+		<word>kaspersky</word>
+		<word>tổ chức</word>
+		<word>12/9/2023</word>
+		<word>genie</word>
+		<word>sugene gan</word>
+		<word>giám đốc</word>
+		<word>phụ trách</word>
+		<word>quan hệ</word>
+		<word>chính phủ</word>
+		<word>chính sách</word>
+		<word>công</word>
+		<word>khu vực</word>
+		<word>châu á</word>
+		<word>thái bình dương</word>
+		<word>nhật bản</word>
+		<word>trung đông</word>
+		<word>thổ nhĩ kỳ</word>
+		<word>châu phi</word>
+		<word>công ty</word>
+		<word>kaspersky</word>
+		<word>sống</word>
+		<word>kỷ nguyên</word>
+		<word>internet</word>
+		<word>vạn vật</word>
+		<word>hàng</word>
+		<word>tỷ thiết bị</word>
+		<word>iot</word>
+		<word>ứng dụng</word>
+		<word>cuộc sống</word>
+		<word>hàng</word>
+	</sentence>
+	<sentence>
+		Các thiết bị kết nối, IoT… đang làm cho cuộc sống trở nên tiện ích, thân thiện hơn.
+		<word>thiết bị</word>
+		<word>kết nối</word>
+		<word>iot</word>
+		<word>…</word>
+		<word>cuộc sống</word>
+		<word>trở nên</word>
+		<word>tiện ích</word>
+		<word>thân thiện</word>
+	</sentence>
+	<sentence>
+		Tuy nhiên, việc gia tăng sử dụng các thiết bị IoT cũng dẫn đến những đe dọa an ninh mạng khi tội phạm mạng khai thác tính kết nối của thiết bị để phát tán các cuộc tấn công.
+		<word>gia tăng</word>
+		<word>thiết bị</word>
+		<word>iot</word>
+		<word>đe</word>
+		<word>dọa</word>
+		<word>an ninh mạng</word>
+		<word>tội phạm mạng</word>
+		<word>khai thác</word>
+		<word>kết nối</word>
+		<word>thiết bị</word>
+		<word>phát tán</word>
+		<word>tấn công</word>
+	</sentence>
+	<sentence>
+		Khi các thiết bị IoT tăng trưởng theo cấp số nhân, việc cài đặt các công cụ bảo vệ cần cập nhật thường xuyên hơn, sẽ tốn nhiều thời gian và tài nguyên.
+		<word>thiết bị</word>
+		<word>iot</word>
+		<word>tăng trưởng</word>
+		<word>nhân</word>
+		<word>cài đặt</word>
+		<word>công cụ</word>
+		<word>bảo vệ</word>
+		<word>cập nhật</word>
+		<word>thường xuyên</word>
+		<word>tốn</word>
+		<word>tài nguyên</word>
+	</sentence>
+	<sentence>
+		Vấn đề còn phức tạp hơn khi nhiều thiết bị trong số này không có khả năng xử lý cho các công cụ bổ sung về an ninh mạng như phần mềm chống virus đòi hỏi bộ nhớ và tài nguyên xử lý lớn.
+		<word>phức tạp</word>
+		<word>thiết bị</word>
+		<word>khả năng</word>
+		<word>công cụ</word>
+		<word>bổ sung</word>
+		<word>an ninh mạng</word>
+		<word>phần mềm</word>
+		<word>chống</word>
+		<word>virus</word>
+		<word>đòi hỏi</word>
+		<word>bộ nhớ</word>
+		<word>tài nguyên</word>
+	</sentence>
+	<sentence>
+		Do đó, các thiết bị IoT nhà máy công nghiệp, doanh nghiệp trong ngành năng lượng, giao thông vận tải, đô thị thông minh… sẽ dễ dàng trở thành đích tấn công của tội phạm mạng.
+		<word>thiết bị</word>
+		<word>iot</word>
+		<word>nhà máy</word>
+		<word>công nghiệp</word>
+		<word>doanh nghiệp</word>
+		<word>ngành</word>
+		<word>năng lượng</word>
+		<word>giao thông</word>
+		<word>vận tải</word>
+		<word>đô thị</word>
+		<word>thông minh</word>
+		<word>…</word>
+		<word>dễ dàng</word>
+		<word>đích</word>
+		<word>tấn công</word>
+		<word>tội phạm mạng</word>
+	</sentence>
+	<sentence>
+		Báo cáo của Trung tâm Ứng cứu Khẩn cấp Không gian mạng Việt Nam (VNCERT) cho thấy sự gia tăng đáng kể các sự cố mạng nhắm vào thiết bị IoT trong những năm qua.
+		<word>báo cáo</word>
+		<word>trung tâm</word>
+		<word>ứng cứu</word>
+		<word>khẩn cấp</word>
+		<word>không gian mạng</word>
+		<word>việt nam</word>
+		<word>vncert</word>
+		<word>gia tăng</word>
+		<word>sự cố</word>
+		<word>mạng</word>
+		<word>nhắm</word>
+		<word>thiết bị</word>
+		<word>iot</word>
+	</sentence>
+	<sentence>
+		Dự báo trước đó đã nhấn mạnh các cuộc tấn công vào thiết bị IoT là một trong bốn xu hướng tấn công mạng chính từ đầu năm 2022.
+		<word>dự báo</word>
+		<word>nhấn mạnh</word>
+		<word>tấn công</word>
+		<word>thiết bị</word>
+		<word>iot</word>
+		<word>bốn</word>
+		<word>xu hướng</word>
+		<word>tấn công</word>
+		<word>mạng</word>
+		<word>đầu</word>
+		<word>2022</word>
+	</sentence>
+	<sentence>
+		Chia sẻ vấn đề này, ông Lê Công Phú, Phó Giám đốc Trung tâm ứng cứu khẩn cấp không gian mạng Việt Nam VnCert, Cục An toàn thông tin khẳng định, trong thế giới IoT ngày càng phát triển, các mối đe dọa trở nên thường trực.
+		<word>lê công phú</word>
+		<word>phó</word>
+		<word>giám đốc</word>
+		<word>trung tâm</word>
+		<word>ứng cứu</word>
+		<word>khẩn cấp</word>
+		<word>không gian mạng</word>
+		<word>việt nam</word>
+		<word>vncert</word>
+		<word>cục</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>thế giới</word>
+		<word>iot</word>
+		<word>phát triển</word>
+		<word>đe</word>
+		<word>dọa</word>
+		<word>trở nên</word>
+		<word>thường trực</word>
+	</sentence>
+	<sentence>
+		Khi IoT xuất hiện ngày càng nhiều, bề mặt tấn công sẽ ngày càng mở rộng.
+		<word>iot</word>
+		<word>bề mặt</word>
+		<word>tấn công</word>
+		<word>mở rộng</word>
+	</sentence>
+	<sentence>
+		Kết quả nghiên cứu cho thấy 98% lượng dữ liệu IoT không được mã hóa, 61% tổ chức đã có sự cố liên quan IoT.
+		<word>kết quả</word>
+		<word>nghiên cứu</word>
+		<word>98</word>
+		<word>dữ liệu</word>
+		<word>iot</word>
+		<word>mã hóa</word>
+		<word>61</word>
+		<word>tổ chức</word>
+		<word>sự cố</word>
+		<word>iot</word>
+	</sentence>
+	<sentence>
+		Có tới 57% thiết bị Iot có lỗ hổng bảo mật từ trung bình đến cao, có thể cho phép hacker kiểm soát  và 41% các cuộc tấn công liên quan đến các lỗ hổng thiết bị.
+		<word>57</word>
+		<word>thiết bị</word>
+		<word>iot</word>
+		<word>lỗ hổng</word>
+		<word>bảo mật</word>
+		<word>trung bình</word>
+		<word>cho phép</word>
+		<word>hacker</word>
+		<word>kiểm soát</word>
+		<word>41</word>
+		<word>tấn công</word>
+		<word>lỗ hổng</word>
+		<word>thiết bị</word>
+	</sentence>
+	<sentence>
+		Cùng với sự tăng trưởng mạnh mẽ, IoT đang đối mặt với rất nhiều nguy cơ tấn công mạng.
+		<word>tăng trưởng</word>
+		<word>mạnh mẽ</word>
+		<word>iot</word>
+		<word>đối mặt</word>
+		<word>nguy cơ</word>
+		<word>tấn công</word>
+		<word>mạng</word>
+	</sentence>
+	<sentence>
+		IoT phát triển mạnh nhưng chưa được quan tâm đúng mức về bảo vệ an toàn thông tin đã vô tình trở thành một thành phần tham gia vào mạng botnet do các hacker điều khiển.
+		<word>iot</word>
+		<word>phát triển</word>
+		<word>đúng mức</word>
+		<word>bảo vệ</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>vô tình</word>
+		<word>thành phần</word>
+		<word>tham gia</word>
+		<word>mạng</word>
+		<word>botnet</word>
+		<word>hacker</word>
+		<word>điều khiển</word>
+	</sentence>
+	<sentence>
+		Ông Phú nêu thực tế, hiện nay các cơ quan, tổ chức doanh nghiệp thường đầu tư nhiều cho hệ thống IT, cài đặt các công cụ phần mềm lên máy tính để kiểm soát dữ liệu, ứng dụng cài đặt trên hệ thống.
+		<word>phú</word>
+		<word>nêu</word>
+		<word>cơ quan</word>
+		<word>tổ chức</word>
+		<word>doanh nghiệp</word>
+		<word>đầu tư</word>
+		<word>hệ thống</word>
+		<word>it</word>
+		<word>cài đặt</word>
+		<word>công cụ</word>
+		<word>phần mềm</word>
+		<word>máy tính</word>
+		<word>kiểm soát</word>
+		<word>dữ liệu</word>
+		<word>ứng dụng</word>
+		<word>cài đặt</word>
+		<word>hệ thống</word>
+	</sentence>
+	<sentence>
+		Tuy nhiên, với các thiết bị IoT chưa được quan tâm đầu tư bảo vệ đúng mức.
+		<word>thiết bị</word>
+		<word>iot</word>
+		<word>đầu tư</word>
+		<word>bảo vệ</word>
+		<word>đúng mức</word>
+	</sentence>
+	<sentence>
+		Do đó, các thiết bị IoT thường sẽ đối mặt với nhiều thách thức.
+		<word>thiết bị</word>
+		<word>iot thường</word>
+		<word>đối mặt</word>
+		<word>thách thức</word>
+	</sentence>
+	<sentence>
+		Ngoài ra với việc các cổng kết nối mạng internet được mở vô tội vạ như hiện nay, hacker chỉ cần một câu lệnh đơn giản có thể tìm kiếm được tất cả các thiết bị IoT kết nối.
+		<word>cổng</word>
+		<word>kết nối</word>
+		<word>mạng</word>
+		<word>internet</word>
+		<word>vô tội vạ</word>
+		<word>hacker</word>
+		<word>câu</word>
+		<word>lệnh</word>
+		<word>đơn giản</word>
+		<word>tìm kiếm</word>
+		<word>thiết bị</word>
+		<word>iot</word>
+		<word>kết nối</word>
+	</sentence>
+	<sentence>
+		Các cuộc tấn công DDos, khai thác lỗ hổng bảo mật thường tập trung khai thác, quét các cổng kết nối này để xâm nhập.
+		<word>tấn công</word>
+		<word>ddos</word>
+		<word>khai thác</word>
+		<word>lỗ hổng</word>
+		<word>bảo mật</word>
+		<word>khai thác</word>
+		<word>quét</word>
+		<word>cổng</word>
+		<word>kết nối</word>
+		<word>xâm nhập</word>
+	</sentence>
+	<sentence>
+		Thậm chí qua rà quét, cơ quan an ninh mạng phát hiện nhiều thiết bị IoT có Backdoor, tồn tại lỗ hổng để hacker khai thác thực hiện câu lệnh từ xa truy cập vào các ứng dụng…Trong khi đó, mật khẩu trong các thiết bị IoT thường rất đơn giản, dễ đoán.
+		<word>rà quét</word>
+		<word>cơ quan</word>
+		<word>an ninh mạng</word>
+		<word>phát hiện</word>
+		<word>thiết bị</word>
+		<word>iot</word>
+		<word>backdoor</word>
+		<word>tồn tại</word>
+		<word>lỗ hổng</word>
+		<word>hacker</word>
+		<word>khai thác</word>
+		<word>câu</word>
+		<word>lệnh</word>
+		<word>truy cập</word>
+		<word>ứng dụng</word>
+		<word>…</word>
+		<word>mật khẩu</word>
+		<word>thiết bị</word>
+		<word>iot thường</word>
+		<word>đơn giản</word>
+		<word>dễ đoán</word>
+	</sentence>
+	<sentence>
+		Để quản lý an toàn các mối đe dọa trong các thiết bị IoT, giảm thiểu rủi ro mà không cần nhiều chi phí đầu tư, các tổ chức doanh nghiệp cần lưu ý cập nhật các bản vá lỗ hổng thiết bị.
+		<word>quản lý</word>
+		<word>an toàn</word>
+		<word>đe dọa</word>
+		<word>thiết bị</word>
+		<word>iot</word>
+		<word>giảm thiểu</word>
+		<word>rủi ro</word>
+		<word>chi phí</word>
+		<word>đầu tư</word>
+		<word>tổ chức</word>
+		<word>doanh nghiệp</word>
+		<word>lưu ý</word>
+		<word>cập nhật</word>
+		<word>vá</word>
+		<word>lỗ hổng</word>
+		<word>thiết bị</word>
+	</sentence>
+	<sentence>
+		Ngoài ra, trước khi đưa hệ thống thiết bị đi vào hoạt động phải chú ý thay đổi mã khóa, mật khẩu; đồng thời nên vô hiệu hóa các tính năng ứng dụng không cần thiết…
+
+Theo các chuyên, gia, trong bảo vệ an toàn thông tin, có những nguyên tắc không quá tốn kém như đặt mật khẩu phức tạp, cập nhật bản vá, thiết lập lại các cài đặt… Các doanh nghiệp cũng cần có cách tiếp cận, có chiến lược rõ ràng về an toàn an ninh mạng, đồng thời phải hiểu các kết nối, điểm chạm của mình với thế giới bên ngoài mới có cách bảo vệ phù hợp.
+		<word>hệ thống</word>
+		<word>thiết bị</word>
+		<word>đi</word>
+		<word>hoạt động</word>
+		<word>chú ý</word>
+		<word>mã khóa</word>
+		<word>mật khẩu</word>
+		<word>vô hiệu</word>
+		<word>hóa</word>
+		<word>tính năng</word>
+		<word>ứng dụng</word>
+		<word>cần thiết</word>
+		<word>…</word>
+		<word>chuyên</word>
+		<word>gia</word>
+		<word>bảo vệ</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>nguyên tắc</word>
+		<word>tốn kém</word>
+		<word>mật khẩu</word>
+		<word>phức tạp</word>
+		<word>cập nhật bản</word>
+		<word>vá</word>
+		<word>thiết lập</word>
+		<word>cài đặt</word>
+		<word>…</word>
+		<word>doanh nghiệp</word>
+		<word>tiếp cận</word>
+		<word>chiến lược</word>
+		<word>rõ ràng</word>
+		<word>an toàn</word>
+		<word>an ninh mạng</word>
+		<word>kết nối</word>
+		<word>chạm</word>
+		<word>thế giới</word>
+		<word>bảo vệ</word>
+	</sentence>
+	<sentence>
+		Ông Khổng Huy Hùng, Phó Chủ tịch Hiệp hội an toàn thông tin Việt Nam cho rằng muốn bảo vệ các thiết bị IoT, các cơ quan, doanh nghiệp phải xác định được trên hệ thống của mình có bao nhiêu thiết bị IoT.
+		<word>khổng huy hùng</word>
+		<word>phó</word>
+		<word>chủ tịch</word>
+		<word>hiệp hội</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>việt nam</word>
+		<word>bảo vệ</word>
+		<word>thiết bị</word>
+		<word>iot</word>
+		<word>cơ quan</word>
+		<word>doanh nghiệp</word>
+		<word>xác định</word>
+		<word>hệ thống</word>
+		<word>thiết bị</word>
+		<word>iot</word>
+	</sentence>
+	<sentence>
+		Hiện nay, vấn đề này chưa được các tổ chức doanh nghiệp lưu tâm.
+		<word>tổ chức</word>
+		<word>doanh nghiệp</word>
+		<word>lưu tâm</word>
+	</sentence>
+	<sentence>
+		Việc bảo vệ an toàn an ninh mạng giống như y tế dự phòng.
+		<word>bảo vệ</word>
+		<word>an toàn</word>
+		<word>an ninh mạng</word>
+		<word>y tế</word>
+		<word>dự phòng</word>
+	</sentence>
+	<sentence>
+		Do đó, các tổ chức doanh nghiệp cần nâng cao khả năng miễn dịch, dự phòng, nhận thức về phòng chống tấn công mạng.
+		<word>tổ chức</word>
+		<word>doanh nghiệp</word>
+		<word>nâng</word>
+		<word>khả năng</word>
+		<word>miễn dịch</word>
+		<word>dự phòng</word>
+		<word>nhận thức</word>
+		<word>phòng chống</word>
+		<word>tấn công</word>
+		<word>mạng</word>
+	</sentence>
+	<sentence>
+		Còn theo chuyên gia Kaspersky, phương pháp thông thường để bảo mật các hệ thống công nghệ thông tin có thể sẽ không hiệu quả cao với các thiết bị IoT.
+		<word>chuyên gia</word>
+		<word>kaspersky</word>
+		<word>phương pháp</word>
+		<word>thông thường</word>
+		<word>bảo mật</word>
+		<word>hệ thống</word>
+		<word>công nghệ thông tin</word>
+		<word>hiệu quả</word>
+		<word>thiết bị</word>
+		<word>iot</word>
+	</sentence>
+	<sentence>
+		Do đó, cần phải có một cách tiếp cận mới để đảm bảo các giải pháp an ninh mạng trong môi trường số phức tạp luôn đạt hiệu quả an toàn.
+		<word>tiếp cận</word>
+		<word>giải pháp</word>
+		<word>an ninh mạng</word>
+		<word>môi trường</word>
+		<word>phức tạp</word>
+		<word>hiệu quả</word>
+		<word>an toàn</word>
+	</sentence>
+	<sentence>
+		Với quan điểm này, Kaspersky đưa ra tầm nhìn miễn dịch không gian mạng đảm bảo hầu hết các mối đe dọa an ninh mạng không thể ảnh hưởng tới từng thiết bị đơn lẻ cũng như toàn bộ hệ thống IoT.
+		<word>quan điểm</word>
+		<word>kaspersky</word>
+		<word>tầm</word>
+		<word>miễn dịch</word>
+		<word>không gian mạng</word>
+		<word>đe</word>
+		<word>dọa</word>
+		<word>an ninh mạng</word>
+		<word>ảnh hưởng</word>
+		<word>thiết bị đơn lẻ</word>
+		<word>toàn bộ</word>
+		<word>hệ thống</word>
+		<word>iot</word>
+	</sentence>
+	<sentence>
+		Theo bà Genie Sugene Gan “điều này là vô cùng quan trọng trong hành trình thúc đẩy chuyển đổi số, tạo ra một môi trường số an toàn hơn”.
+		<word>genie</word>
+		<word>sugene gan</word>
+		<word>“</word>
+		<word>vô cùng</word>
+		<word>hành trình</word>
+		<word>thúc đẩy</word>
+		<word>chuyển đổi</word>
+		<word>môi trường</word>
+		<word>an toàn</word>
+		<word>”</word>
+	</sentence>
+	<sentence>
+		Coi giải pháp miễn dịch không gian mạng là một nhân tố làm thay đổi cuộc chơi trong lĩnh vực IoT, ông Andrey Suvorov, Giám đốc Kinh doanh KasperskyOS, nhận xét tất cả các lãnh đạo tổ chức, doanh nghiệp cũng như tầm quốc gia hiện nay đều coi trọng vai trò của an ninh mạng, là một trong những ưu tiên hàng đầu.
+		<word>coi</word>
+		<word>giải pháp</word>
+		<word>miễn dịch</word>
+		<word>không gian mạng</word>
+		<word>nhân tố</word>
+		<word>cuộc chơi</word>
+		<word>lĩnh vực</word>
+		<word>iot</word>
+		<word>andrey suvorov</word>
+		<word>giám đốc</word>
+		<word>kinh doanh kasperskyos</word>
+		<word>nhận xét</word>
+		<word>lãnh đạo</word>
+		<word>tổ chức</word>
+		<word>doanh nghiệp</word>
+		<word>tầm</word>
+		<word>quốc gia</word>
+		<word>coi trọng</word>
+		<word>vai trò</word>
+		<word>an ninh mạng</word>
+		<word>ưu tiên</word>
+		<word>hàng đầu</word>
+	</sentence>
+	<sentence>
+		Yếu tố cốt lõi tạo sự thay đổi này do rủi ro an ninh mạng và các cuộc tấn công mạng xảy ra ngày một phức tạp.
+		<word>yếu tố</word>
+		<word>cốt lõi</word>
+		<word>rủi ro</word>
+		<word>an ninh mạng</word>
+		<word>tấn công mạng</word>
+		<word>xảy</word>
+		<word>ngày một</word>
+		<word>phức tạp</word>
+	</sentence>
+	<sentence>
+		Đơn cử nếu một doanh nghiệp bị hacker tấn công mã độc tống tiền, số tiền chuộc có thể sẽ làm doanh nghiệp sụp đổ.
+		<word>đơn cử</word>
+		<word>doanh nghiệp</word>
+		<word>hacker</word>
+		<word>tấn công mã</word>
+		<word>độc</word>
+		<word>tống tiền</word>
+		<word>tiền</word>
+		<word>chuộc</word>
+		<word>doanh nghiệp</word>
+		<word>sụp đổ</word>
+	</sentence>
+	<sentence>
+		Tuy nhiên, nhiều doanh nghiệp vẫn phản ứng khá thụ động trước các tình huống tấn công an ninh mạng.
+		<word>doanh nghiệp</word>
+		<word>phản ứng</word>
+		<word>thụ động</word>
+		<word>tình huống</word>
+		<word>tấn công an</word>
+		<word>ninh mạng</word>
+	</sentence>
+	<sentence>
+		Trong khi đó hacker liên tục sáng tạo, thay đổi cách thức tấn công mới.
+		<word>hacker</word>
+		<word>liên tục</word>
+		<word>sáng tạo</word>
+		<word>cách thức</word>
+		<word>tấn công</word>
+	</sentence>
+	<sentence>
+		Do đó, cách tiếp cận bảo vệ an ninh mạng truyền thống thường thụ động và không theo kịp.
+		<word>tiếp cận</word>
+		<word>bảo vệ</word>
+		<word>an ninh mạng</word>
+		<word>truyền thống</word>
+		<word>thụ động</word>
+		<word>kịp</word>
+	</sentence>
+	<sentence>
+		Theo chuyên gia này, cách tiếp cận mới được đưa ra để khắc phục tình trạng này là giải pháp miễn dịch trên không gian mạng, trong đó có bảo vệ an toàn thiết bị IoT, đối phó với các mối đe dọa bảo mật mới.
+		<word>chuyên gia</word>
+		<word>tiếp cận</word>
+		<word>khắc phục</word>
+		<word>giải pháp</word>
+		<word>miễn dịch</word>
+		<word>không gian</word>
+		<word>mạng</word>
+		<word>bảo vệ</word>
+		<word>an toàn</word>
+		<word>thiết bị</word>
+		<word>iot</word>
+		<word>đối phó</word>
+		<word>đe dọa</word>
+		<word>bảo mật</word>
+	</sentence>
+	<sentence>
+		Giải pháp hệ điều hành mới sẽ thay đổi cách tiếp cận truyền thống, quy tắc của luật chơi trong bảo vệ an ninh mạng các thiết bị kết nối IoT, camera giám sát…
+		<word>giải pháp</word>
+		<word>hệ</word>
+		<word>điều hành</word>
+		<word>tiếp cận</word>
+		<word>truyền thống</word>
+		<word>quy tắc</word>
+		<word>luật chơi</word>
+		<word>bảo vệ</word>
+		<word>an ninh mạng</word>
+		<word>thiết bị</word>
+		<word>kết nối</word>
+		<word>iot</word>
+		<word>camera</word>
+		<word>giám sát</word>
+		<word>…</word>
+	</sentence>
+</document>

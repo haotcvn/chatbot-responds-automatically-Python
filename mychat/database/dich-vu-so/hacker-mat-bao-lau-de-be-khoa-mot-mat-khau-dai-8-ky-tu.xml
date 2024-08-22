@@ -1,0 +1,227 @@
+<?xml version="1.0" ?>
+<document>
+	<sentence>
+		Hacker mất bao lâu để bẻ khóa một mật khẩu dài 8 ký tự?.
+		<word>hacker</word>
+		<word>bẻ</word>
+		<word>khóa</word>
+		<word>mật khẩu</word>
+		<word>8</word>
+		<word>ký</word>
+	</sentence>
+	<sentence>
+		Chỉ cần tăng gấp đôi độ dài mật khẩu từ 8 lên 16, người dùng có thể tăng đáng kể thời gian để tin tặc xâm nhập vào tài khoản hoặc hệ thống kỹ thuật số….
+		<word>gấp</word>
+		<word>đôi</word>
+		<word>độ</word>
+		<word>mật khẩu</word>
+		<word>8</word>
+		<word>16</word>
+		<word>tặc</word>
+		<word>xâm nhập</word>
+		<word>tài khoản</word>
+		<word>hệ thống</word>
+		<word>kỹ thuật số</word>
+		<word>…</word>
+	</sentence>
+	<sentence>
+		37 giây — đó là thời gian trung bình một hacker dày dạn kinh nghiệm cần để bẻ khóa mật khẩu cơ bản gồm 8 ký tự chữ số.
+		<word>37</word>
+		<word>giây —</word>
+		<word>trung bình</word>
+		<word>hacker</word>
+		<word>dày dạn</word>
+		<word>kinh nghiệm</word>
+		<word>bẻ</word>
+		<word>khóa</word>
+		<word>mật khẩu</word>
+		<word>cơ bản</word>
+		<word>8</word>
+		<word>ký</word>
+		<word>chữ số</word>
+	</sentence>
+	<sentence>
+		Những phát hiện gần đây từ công ty CNTT Hive Systems đã làm sáng tỏ tầm quan trọng của độ dài và độ phức tạp của mật khẩu trong việc ngăn chặn các nỗ lực bẻ khoá của tin tặc.
+		<word>phát hiện</word>
+		<word>công ty</word>
+		<word>cntt hive</word>
+		<word>systems</word>
+		<word>sáng tỏ</word>
+		<word>tầm</word>
+		<word>độ</word>
+		<word>độ</word>
+		<word>phức tạp</word>
+		<word>mật khẩu</word>
+		<word>ngăn chặn</word>
+		<word>nỗ lực</word>
+		<word>bẻ khóa</word>
+		<word>tặc</word>
+	</sentence>
+	<sentence>
+		Phân tích của Hive Systems cho thấy mật khẩu mạnh (chứa số, chữ hoa, chữ thường và ký hiệu) và mật khẩu khá mạnh (chứa chữ hoa và chữ thường) rất khó bị bẻ khóa nếu chúng dài hơn 8 ký tự - phải mất vài tháng hoặc nhiều năm để bẻ khóa những mật khẩu đó nếu chúng được bảo vệ bằng Bcrypt.
+		<word>phân tích</word>
+		<word>hive systems</word>
+		<word>mật khẩu</word>
+		<word>chứa</word>
+		<word>chữ</word>
+		<word>hoa</word>
+		<word>chữ</word>
+		<word>ký hiệu</word>
+		<word>mật khẩu</word>
+		<word>chứa</word>
+		<word>chữ</word>
+		<word>hoa</word>
+		<word>chữ</word>
+		<word>bẻ</word>
+		<word>khóa</word>
+		<word>8</word>
+		<word>ký</word>
+		<word>bẻ khóa</word>
+		<word>mật khẩu</word>
+		<word>bảo vệ</word>
+		<word>bcrypt</word>
+	</sentence>
+	<sentence>
+		Bên cạnh đó, các chuyên gia ủng hộ mật khẩu dài hơn 8 ký tự ngay cả khi chúng đơn giản.
+		<word>cạnh</word>
+		<word>chuyên gia</word>
+		<word>ủng hộ</word>
+		<word>mật khẩu</word>
+		<word>8</word>
+		<word>ký</word>
+		<word>đơn giản</word>
+	</sentence>
+	<sentence>
+		Các tin tặc cần 7 năm để bẻ khoá một mật khẩu tám ký tự bao gồm cả các số, chữ hoa và chữ thường hay ký hiệu, trong khi thời gian cần thiết để bẻ khóa mật khẩu 16 ký tự chỉ gồm các số lên đến 119 năm.
+		<word>tặc</word>
+		<word>7</word>
+		<word>bẻ</word>
+		<word>khóa</word>
+		<word>mật khẩu</word>
+		<word>tám</word>
+		<word>ký</word>
+		<word>bao gồm</word>
+		<word>chữ</word>
+		<word>hoa</word>
+		<word>chữ</word>
+		<word>ký hiệu</word>
+		<word>cần thiết</word>
+		<word>bẻ</word>
+		<word>khóa</word>
+		<word>mật khẩu</word>
+		<word>16</word>
+		<word>ký</word>
+		<word>119</word>
+	</sentence>
+	<sentence>
+		Các thuật toán băm mật khẩu để bảo vệ dữ liệu ngày càng mạnh và được sử dụng rộng rãi hơn, đã khiến thời gian tin tặc cần để bẻ khóa mật khẩu tăng lên, theo các chuyên gia.
+		<word>thuật toán</word>
+		<word>băm</word>
+		<word>mật khẩu</word>
+		<word>bảo vệ</word>
+		<word>dữ liệu</word>
+		<word>rộng rãi</word>
+		<word>tặc</word>
+		<word>bẻ</word>
+		<word>khóa</word>
+		<word>mật khẩu</word>
+		<word>chuyên gia</word>
+	</sentence>
+	<sentence>
+		Năm ngoái, nghiên cứu của Hive Systems cho thấy mật khẩu 11 ký tự có thể bị bẻ khóa ngay lập tức.
+		<word>năm ngoái</word>
+		<word>nghiên cứu</word>
+		<word>hive systems</word>
+		<word>mật khẩu</word>
+		<word>11</word>
+		<word>ký tự</word>
+		<word>bẻ khóa</word>
+	</sentence>
+	<sentence>
+		Giờ đây, mật khẩu 11 ký tự chỉ có số sẽ mất nhiều thời gian hơn để bị bẻ khóa – sau 10 giờ.
+		<word>mật khẩu</word>
+		<word>11</word>
+		<word>ký</word>
+		<word>bẻ</word>
+		<word>khóa</word>
+		<word>–</word>
+		<word>10</word>
+	</sentence>
+	<sentence>
+		Mặc dù vậy, các thử nghiệm cho thấy bất kỳ mật khẩu nào dưới bảy ký tự đều có thể bị bẻ khóa trong vòng vài giờ.
+		<word>mặc dù</word>
+		<word>thử nghiệm</word>
+		<word>mật khẩu</word>
+		<word>bảy</word>
+		<word>ký</word>
+		<word>bẻ khóa</word>
+		<word>vòng</word>
+	</sentence>
+	<sentence>
+		Alex Nette, Giám đốc điều hành của Hive Systems cho biết: “Nhìn vào dữ liệu và sự gia tăng thời gian mà tin tặc cần để bẻ khóa mật khẩu, dễ dàng thấy ngành an ninh mạng đã đạt được những bước tiến lớn trong việc bảo vệ dữ liệu của chúng tôi”.
+		<word>alex nette</word>
+		<word>giám đốc điều hành</word>
+		<word>hive systems</word>
+		<word>“</word>
+		<word>dữ liệu</word>
+		<word>gia tăng</word>
+		<word>tặc</word>
+		<word>bẻ</word>
+		<word>khóa</word>
+		<word>mật khẩu</word>
+		<word>dễ dàng</word>
+		<word>ngành</word>
+		<word>an ninh mạng</word>
+		<word>bước tiến</word>
+		<word>bảo vệ</word>
+		<word>dữ liệu</word>
+		<word>”</word>
+	</sentence>
+	<sentence>
+		“Điều không may là chúng ta đặt càng nhiều các tầng bảo vệ gây khó khăn hơn cho tin tặc, chúng lại tìm ra những cách mới để vượt qua, ngay cả những biện pháp bảo vệ mạnh nhất”, Alex Nette, Giám đốc điều hành của Hive Systems nhận định.
+		<word>“</word>
+		<word>may</word>
+		<word>tầng</word>
+		<word>bảo vệ</word>
+		<word>tặc</word>
+		<word>biện pháp</word>
+		<word>bảo vệ</word>
+		<word>”</word>
+		<word>alex nette</word>
+		<word>giám đốc điều hành</word>
+		<word>hive systems</word>
+		<word>nhận định</word>
+	</sentence>
+	<sentence>
+		Tuy nhiên, công ty này cũng cảnh báo thời gian bẻ khóa mật khẩu cũng ngày càng giảm xuống vì “sức mạnh tính toán tăng lên trong những năm tới”.
+		<word>công ty</word>
+		<word>cảnh báo</word>
+		<word>bẻ</word>
+		<word>khóa</word>
+		<word>mật khẩu</word>
+		<word>“</word>
+		<word>sức mạnh</word>
+		<word>tính toán</word>
+		<word>”</word>
+	</sentence>
+	<sentence>
+		Theo đó, Corey Neskey, Phó Giám đốc tại Hive Systems cho biết: “Đối với một số trang web, thuật toán bảo vệ không thể hoạt động, nhưng người dùng vẫn muốn truy cập.
+		<word>corey neskey</word>
+		<word>phó</word>
+		<word>giám đốc</word>
+		<word>hive systems</word>
+		<word>“</word>
+		<word>trang web</word>
+		<word>thuật toán</word>
+		<word>bảo vệ</word>
+		<word>hoạt động</word>
+		<word>truy cập</word>
+	</sentence>
+	<sentence>
+		Điều này buộc họ phải thỏa hiệp, từ đó tạo cơ hội cho tin tặc”.
+		<word>buộc</word>
+		<word>thỏa hiệp</word>
+		<word>tặc</word>
+		<word>”</word>
+	</sentence>
+</document>

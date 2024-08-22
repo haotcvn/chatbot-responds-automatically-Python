@@ -1,0 +1,132 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>ChatDNC | Nam Cần Thơ</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- Google Fonts Link For Icons -->
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+        <!-- Boxicons CSS -->
+        <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+        <link rel="stylesheet" href="{%static 'app/css/style.css'%}">
+    </head>
+    <body>
+        <div class="container">
+          <nav class="sidebar locked">
+            <div class="logo_items flex">
+              <span class="nav_image">
+                <img src="static/app/images/chatbot.png" alt="logo_img" />
+              </span>
+              <span class="logo_name">ChatDNC</span>
+              <i class="bx bx-lock-alt" id="lock-icon" title="Unlock Sidebar"></i>
+              <i class="bx bx-x" id="sidebar-close"></i>
+            </div>
+            {% if user.is_superuser %}
+              <div class="menu_container">
+                <div class="menu_items">
+                  <ul class="menu_item">
+                    <div class="menu_title flex">
+                      <span class="title">Quản lý</span>
+                      <span class="line"></span>
+                    </div>
+                    {% comment %} <li class="item">
+                      <div class="input-bx link">
+                        <form action="">
+                          <input type="file" id="fileInput" multiple accept=".pdf" hidden />
+                          <label for="fileInput" class="uploadlbl flex">
+                            <i class="bx bx-cloud-upload"></i>
+                            <span>Chọn để tải lên (.pdf)</span>
+                          </label>
+                        </form>
+                      </div>
+                      
+                      <div id="filewrapper">
+                        <ul id="fileList"></ul>
+                        <button class='uploadBtn' id="fileBtn">Tải lên</button>
+                      </div>
+                    </li> {% endcomment %}
+                    <li class="item">
+                      <div class="input-bx link">
+                        <a href="/file-manager/">
+                          <div class="uploadlbl flex">
+                            <i class="bx bx-cloud-upload"></i>
+                            <span>Quản lý dữ liệu</span>
+                          </div>
+                        </a>
+                      </div>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            {% endif %}
+            
+            <div class="setting">
+              {% comment %} <div class="sidebar_profile flex">
+                <span class="nav_image">
+                  <img src="static/app/images/user.png" alt="logo_img" />
+                </span>
+                <div class="data_text">
+                  {% if user.is_authenticated %}
+                    <span class="name">{{user.email}}</span>
+                  {% else %}
+                    <span class="name">{{user.name}}</span>
+                  {% endif %}
+                </div>
+              </div> {% endcomment %}
+              <span class="login-btn">
+                {% if user.is_authenticated %}
+                    <form id="logout-form" action="{% url 'app:logout' %}" method="post">
+                      {% csrf_token %}
+                      <button  class="button" type="button" onclick="confirmLogout()">Đăng xuất</button>
+                    </form>
+                {% else %}
+                  <a href="{% url 'account' %}" class="link">
+                      <i class="fa-solid fa-arrow-right-to-bracket"></i>
+                      <span>Đăng nhập</span>
+                  </a>
+                {% endif %}
+                {% comment %} <a href="account/" class="link">
+                  <i class="fa-solid fa-arrow-right-to-bracket"></i>
+                  <span>Đăng nhập</span>
+                </a> {% endcomment %}
+              </span>
+
+              
+            </div>
+          </nav>
+      
+          <div class="content">
+            <!-- Chats container -->
+            <div class="chat-container">
+
+            </div>
+            
+            <!-- Typing container -->
+            <div class="typing-container">
+              <div class="typing-content">
+                <div class="typing-textarea">
+                  <textarea id="chat-input" spellcheck="false" placeholder="Nhập câu hỏi của bạn ở đây..." required></textarea>
+                  <span id="send-btn" class="material-symbols-rounded">send</span>
+                </div>
+                <div class="typing-controls">
+                  <span id="theme-btn" class="material-symbols-rounded">light_mode</span>
+                  <span id="delete-btn" class="material-symbols-rounded">delete</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <script src="{%static 'app/js/script.js'%}" async defer></script>
+        <script>
+          function confirmLogout() {
+              if (confirm("Bạn có chắc chắn muốn đăng xuất không?")) {
+                  document.getElementById('logout-form').submit();
+              }
+          }
+        </script>
+    </body>
+</html>

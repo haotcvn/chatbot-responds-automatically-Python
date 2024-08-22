@@ -1,0 +1,561 @@
+<?xml version="1.0" ?>
+<document>
+	<sentence>
+		Chính thức có bộ tiêu chí yêu cầu an toàn thông tin mạng cơ bản cho camera giám sát.
+		<word>chính thức</word>
+		<word>tiêu chí</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>mạng</word>
+		<word>cơ bản</word>
+		<word>camera</word>
+		<word>giám sát</word>
+	</sentence>
+	<sentence>
+		Tài liệu này đưa ra và khuyến nghị áp dụng các yêu cầu kỹ thuật an toàn thông tin mạng cơ bản cho thiết bị camera giám sát sử dụng giao thức mạng (thiết bị camera).
+		<word>tài liệu</word>
+		<word>khuyến nghị</word>
+		<word>áp dụng</word>
+		<word>kỹ thuật</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>mạng</word>
+		<word>cơ bản</word>
+		<word>thiết bị</word>
+		<word>camera</word>
+		<word>giám sát</word>
+		<word>giao thức</word>
+		<word>mạng</word>
+		<word>thiết bị</word>
+		<word>camera</word>
+	</sentence>
+	<sentence>
+		Đối với các yêu cầu kỹ thuật an toàn thông tin mạng ở mức cao hơn, các tổ chức, cá nhân căn cứ đặc thù, nhu cầu thực tiễn của mình để xem xét, quyết định.... Ngày 7/5/2024, Bộ Thông tin và Truyền thông ban hành Quyết định số 724/QĐ-BTTTT ban hành Bộ tiêu chí về yêu cầu an toàn thông tin mạng cơ bản cho camera giám sát với 10 yêu cầu cơ bản.
+		<word>kỹ thuật</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>mạng</word>
+		<word>tổ chức</word>
+		<word>căn cứ</word>
+		<word>đặc thù</word>
+		<word>nhu cầu</word>
+		<word>thực tiễn</word>
+		<word>xem xét</word>
+		<word>quyết định</word>
+		<word>....</word>
+		<word>7/5/2024</word>
+		<word>thông tin</word>
+		<word>truyền thông</word>
+		<word>ban hành</word>
+		<word>quyết định</word>
+		<word>724</word>
+		<word>qđ-btttt</word>
+		<word>ban hành</word>
+		<word>tiêu chí</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>mạng</word>
+		<word>cơ bản</word>
+		<word>camera</word>
+		<word>giám sát</word>
+		<word>10</word>
+		<word>cơ bản</word>
+	</sentence>
+	<sentence>
+		Về đối tượng áp dụng, khuyến nghị áp dụng đối với các tổ chức, cá nhân Việt Nam và nước ngoài có liên quan đến hoạt động nghiên cứu, phát triển, sản xuất, đánh giá, lựa chọn và sử dụng thiết bị camera.
+		<word>đối tượng</word>
+		<word>áp dụng</word>
+		<word>khuyến nghị</word>
+		<word>áp dụng</word>
+		<word>tổ chức</word>
+		<word>việt nam</word>
+		<word>nước ngoài</word>
+		<word>hoạt động</word>
+		<word>nghiên cứu</word>
+		<word>phát triển</word>
+		<word>sản xuất</word>
+		<word>lựa chọn</word>
+		<word>thiết bị</word>
+		<word>camera</word>
+	</sentence>
+	<sentence>
+		Bộ tiêu chí nêu rõ các yêu cầu cơ bản, có tài liệu hướng dẫn sử dụng sản phẩm cho người sử dụng.
+		<word>tiêu chí</word>
+		<word>nêu</word>
+		<word>cơ bản</word>
+		<word>tài liệu</word>
+		<word>hướng dẫn</word>
+		<word>sản phẩm</word>
+	</sentence>
+	<sentence>
+		Có chức năng quản trị hệ thống cho phép thay đổi thời gian khóa, số lần đăng nhập sai và khoảng thời gian đăng nhập sai liên tục; Thiết lập mặc định khóa không cho đăng nhập trong vòng 5 phút, sau khi đăng nhập thất bại 5 lần liên tục trong khoảng thời gian 30 giây hoặc ngắn hơn.
+		<word>chức năng</word>
+		<word>quản trị</word>
+		<word>hệ thống</word>
+		<word>cho phép</word>
+		<word>khóa</word>
+		<word>đăng nhập</word>
+		<word>sai</word>
+		<word>đăng nhập</word>
+		<word>sai</word>
+		<word>liên tục</word>
+		<word>thiết lập</word>
+		<word>mặc định</word>
+		<word>khóa</word>
+		<word>đăng nhập</word>
+		<word>vòng</word>
+		<word>5</word>
+		<word>phút</word>
+		<word>đăng nhập</word>
+		<word>thất bại</word>
+		<word>5</word>
+		<word>liên tục</word>
+		<word>30</word>
+		<word>giây</word>
+		<word>ngắn</word>
+	</sentence>
+	<sentence>
+		Chỉ thông tin cho người sử dụng nội dung đăng nhập thành công/thất bại mà không có nội dung khác làm cơ sở thực hiện tấn công vét cạn.
+		<word>thông tin</word>
+		<word>nội dung</word>
+		<word>đăng nhập</word>
+		<word>thành công</word>
+		<word>thất bại</word>
+		<word>nội dung</word>
+		<word>cơ sở</word>
+		<word>tấn công</word>
+		<word>vét</word>
+		<word>cạn</word>
+	</sentence>
+	<sentence>
+		Liên quan đến quản lý mật khẩu an toàn, có chức năng yêu cầu người dùng bắt buộc thay đổi mật khẩu mặc định hoặc mật khẩu khởi tạo khi sử dụng thiết bị lần đầu tiên; có chức năng kiểm soát mật khẩu an toàn.
+		<word>quản lý</word>
+		<word>mật khẩu</word>
+		<word>an toàn</word>
+		<word>chức năng</word>
+		<word>bắt buộc</word>
+		<word>mật khẩu</word>
+		<word>mặc định</word>
+		<word>mật khẩu</word>
+		<word>khởi tạo</word>
+		<word>thiết bị</word>
+		<word>chức năng</word>
+		<word>kiểm soát</word>
+		<word>mật khẩu</word>
+		<word>an toàn</word>
+	</sentence>
+	<sentence>
+		Mật khẩu được tạo ra phải có yêu cầu về độ phức tạp đối với mật khẩu (mật khẩu phải có độ dài tối thiểu 8 ký tự, có chữ hoa, chữ thường, chữ số, ký tự đặc biệt).
+		<word>mật khẩu</word>
+		<word>độ</word>
+		<word>phức tạp</word>
+		<word>mật khẩu</word>
+		<word>mật khẩu</word>
+		<word>độ</word>
+		<word>tối thiểu</word>
+		<word>8</word>
+		<word>ký</word>
+		<word>chữ</word>
+		<word>hoa</word>
+		<word>chữ thường</word>
+		<word>chữ số</word>
+		<word>ký</word>
+	</sentence>
+	<sentence>
+		Có chức năng xác thực cho phép xác thực nhiều loại đối tượng khác nhau như người dùng hoặc thiết bị với thiết bị với loại giá trị xác thực khác nhau.
+		<word>chức năng</word>
+		<word>xác thực</word>
+		<word>cho phép</word>
+		<word>xác thực</word>
+		<word>đối tượng</word>
+		<word>thiết bị</word>
+		<word>thiết bị</word>
+		<word>xác thực</word>
+	</sentence>
+	<sentence>
+		Bên cạnh đó, mật khẩu lưu trữ trên camera phải được mã hóa…
+
+Với hệ thống quản lý lỗ hổng của thiết bị, nhà sản xuất có hệ thống trực tuyến cho phép tiếp nhận và công bố thông tin về lỗ hổng của thiết bị tới người sử dụng.
+		<word>cạnh</word>
+		<word>mật khẩu</word>
+		<word>lưu trữ</word>
+		<word>camera</word>
+		<word>mã hóa</word>
+		<word>…</word>
+		<word>hệ thống</word>
+		<word>quản lý</word>
+		<word>lỗ hổng</word>
+		<word>thiết bị</word>
+		<word>nhà sản xuất</word>
+		<word>hệ thống</word>
+		<word>trực tuyến</word>
+		<word>cho phép</word>
+		<word>tiếp nhận</word>
+		<word>công bố</word>
+		<word>thông tin</word>
+		<word>lỗ hổng</word>
+		<word>thiết bị</word>
+	</sentence>
+	<sentence>
+		Đối với thông tin công bố lỗ hổng bảo mật của thiết bị, tiêu chí yêu cầu có mô tả về lỗ hổng, phân loại và xác định mức độ nghiêm trọng; Có mô tả về các phiên bản bị ảnh hưởng; Có hướng dẫn cập nhật, xử lý lỗ hổng.
+		<word>thông tin</word>
+		<word>công bố</word>
+		<word>lỗ hổng</word>
+		<word>bảo mật</word>
+		<word>thiết bị</word>
+		<word>tiêu chí</word>
+		<word>mô tả</word>
+		<word>lỗ hổng</word>
+		<word>phân loại</word>
+		<word>xác định</word>
+		<word>mức độ</word>
+		<word>nghiêm trọng</word>
+		<word>mô tả</word>
+		<word>phiên bản</word>
+		<word>ảnh hưởng</word>
+		<word>hướng dẫn</word>
+		<word>cập nhật</word>
+		<word>lỗ hổng</word>
+	</sentence>
+	<sentence>
+		Về yêu cầu đối với chức năng cập nhật phiên bản qua Internet, tiêu chí nêu rõ, chức năng cập nhật phải được thực hiện qua kênh kết nối mạng an toàn có phương pháp mã hóa an toàn đáp ứng yêu cầu; có chức năng xác thực trước khi thực hiện cập nhật; Có chức năng thông báo khi có phiên bản cập nhật mới khi người dùng đăng nhập, quản trị thiết bị; Có chức năng thiết lập cho phép thiết bị tự động cập nhật bản vá từ nhà sản xuất; Có chức năng kiểm tra tính nguyên vẹn của bản cập nhật có sử dụng chữ ký số của nhà sản xuất.
+		<word>chức năng</word>
+		<word>cập nhật</word>
+		<word>phiên bản</word>
+		<word>internet</word>
+		<word>tiêu chí</word>
+		<word>nêu</word>
+		<word>chức năng</word>
+		<word>cập nhật</word>
+		<word>kênh</word>
+		<word>kết nối</word>
+		<word>mạng</word>
+		<word>an toàn</word>
+		<word>phương pháp</word>
+		<word>mã hóa</word>
+		<word>an toàn</word>
+		<word>đáp ứng</word>
+		<word>chức năng</word>
+		<word>xác thực</word>
+		<word>cập nhật</word>
+		<word>chức năng</word>
+		<word>thông báo</word>
+		<word>phiên bản</word>
+		<word>cập nhật</word>
+		<word>đăng nhập</word>
+		<word>quản trị</word>
+		<word>thiết bị</word>
+		<word>chức năng</word>
+		<word>thiết lập</word>
+		<word>cho phép</word>
+		<word>thiết bị</word>
+		<word>tự động</word>
+		<word>cập nhật bản</word>
+		<word>vá</word>
+		<word>nhà sản xuất</word>
+		<word>chức năng</word>
+		<word>kiểm tra</word>
+		<word>nguyên vẹn</word>
+		<word>cập nhật</word>
+		<word>chữ ký</word>
+		<word>nhà sản xuất</word>
+	</sentence>
+	<sentence>
+		Đặc biệt, tiêu chí nhấn mạnh tới yếu tố bảo đảm an toàn thông tin dữ liệu người sử dụng, bảo vệ dữ liệu cá nhân… Theo đó, thiết bị camera và các dịch vụ liên kết có tối thiểu tính năng cho phép thiết lập, cấu hình địa điểm tại Việt Nam đối với việc xử lý, lưu trữ và khai thác dữ liệu (như: Trên thẻ nhớ/thiết bị ngoại vi, dịch vụ điện toán đám mây đặt tại Việt Nam,...) nhằm đảm bảo tuân thủ quy định của pháp luật Việt Nam về bảo vệ dữ liệu cá nhân.
+		<word>tiêu chí</word>
+		<word>nhấn mạnh</word>
+		<word>yếu tố</word>
+		<word>bảo đảm</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>dữ liệu</word>
+		<word>bảo vệ</word>
+		<word>dữ liệu</word>
+		<word>…</word>
+		<word>thiết bị</word>
+		<word>camera</word>
+		<word>dịch vụ</word>
+		<word>liên kết</word>
+		<word>tối thiểu</word>
+		<word>tính năng</word>
+		<word>cho phép</word>
+		<word>thiết lập</word>
+		<word>cấu hình</word>
+		<word>địa điểm</word>
+		<word>việt nam</word>
+		<word>lưu trữ</word>
+		<word>khai thác</word>
+		<word>dữ liệu</word>
+		<word>thẻ</word>
+		<word>thiết bị</word>
+		<word>ngoại vi</word>
+		<word>dịch vụ</word>
+		<word>điện toán</word>
+		<word>đám</word>
+		<word>mây</word>
+		<word>việt nam</word>
+		<word>...</word>
+		<word>tuân thủ</word>
+		<word>quy định</word>
+		<word>pháp luật</word>
+		<word>việt nam</word>
+		<word>bảo vệ</word>
+		<word>dữ liệu</word>
+	</sentence>
+	<sentence>
+		Tài liệu hướng dẫn sử dụng (hoặc tài liệu tương đương được công bố công khai) phải liệt kê danh mục các cảm biến được sử dụng bởi thiết bị camera và mô tả chức năng, nguyên lý hoạt động của từng cảm biến được thiết bị camera sử dụng.
+		<word>tài liệu</word>
+		<word>hướng dẫn</word>
+		<word>tài liệu</word>
+		<word>tương đương</word>
+		<word>công bố</word>
+		<word>công khai</word>
+		<word>liệt kê</word>
+		<word>danh mục</word>
+		<word>cảm biến</word>
+		<word>thiết bị</word>
+		<word>camera</word>
+		<word>mô tả</word>
+		<word>chức năng</word>
+		<word>nguyên lý</word>
+		<word>hoạt động</word>
+		<word>cảm biến</word>
+		<word>thiết bị</word>
+		<word>camera</word>
+	</sentence>
+	<sentence>
+		Trong quá trình khởi tạo, thiết lập, cấu hình thiết bị, phải có giao diện thông báo cho người sử dụng về địa điểm (quốc gia) lưu trữ và xử lý dữ liệu được thu thập bởi thiết bị camera và các dịch vụ liên kết.
+		<word>khởi tạo</word>
+		<word>thiết lập</word>
+		<word>cấu hình</word>
+		<word>thiết bị</word>
+		<word>giao diện</word>
+		<word>thông báo</word>
+		<word>địa điểm</word>
+		<word>quốc gia</word>
+		<word>lưu trữ</word>
+		<word>dữ liệu</word>
+		<word>thu thập</word>
+		<word>thiết bị</word>
+		<word>camera</word>
+		<word>dịch vụ</word>
+		<word>liên kết</word>
+	</sentence>
+	<sentence>
+		Bộ tiêu chí cũng đề cập các chức năng cho phép người sử dụng xóa dữ liệu được thu thập và lưu trữ trên thiết bị camera; thông báo cho người sử dụng xóa dữ liệu thành công/thất bại trên thiết bị khi thực hiện chức năng xóa; xác nhận người dùng đồng ý xóa dữ liệu trước khi thực hiện xóa.
+		<word>tiêu chí</word>
+		<word>đề cập</word>
+		<word>chức năng</word>
+		<word>cho phép</word>
+		<word>xóa</word>
+		<word>dữ liệu</word>
+		<word>thu thập</word>
+		<word>lưu trữ</word>
+		<word>thiết bị</word>
+		<word>camera</word>
+		<word>thông báo</word>
+		<word>xóa</word>
+		<word>dữ liệu</word>
+		<word>thành công</word>
+		<word>thất bại</word>
+		<word>thiết bị</word>
+		<word>chức năng</word>
+		<word>xóa</word>
+		<word>xác nhận</word>
+		<word>đồng ý</word>
+		<word>xóa</word>
+		<word>dữ liệu</word>
+		<word>xóa</word>
+	</sentence>
+	<sentence>
+		Đồng thời có chức năng cho phép người sử dụng thiết lập thời gian xóa dữ liệu tự động dữ liệu trên dịch vụ liên kết.
+		<word>chức năng</word>
+		<word>cho phép</word>
+		<word>thiết lập</word>
+		<word>xóa</word>
+		<word>dữ liệu</word>
+		<word>tự động</word>
+		<word>dữ liệu</word>
+		<word>dịch vụ</word>
+		<word>liên kết</word>
+	</sentence>
+	<sentence>
+		Thời gian xóa được người sử dụng thiết lập trên camera hoặc theo thời gian mặc định của nhà sản xuất.
+		<word>xóa</word>
+		<word>thiết lập</word>
+		<word>camera</word>
+		<word>mặc định</word>
+		<word>nhà sản xuất</word>
+	</sentence>
+	<sentence>
+		Đối với tiêu chí an toàn ứng dụng thiết bị camera phải có các tính năng kiểm tra tính hợp lệ của dữ liệu đầu vào do người sử dụng nhập hoặc qua giao diện lập trình; ngăn chặn quá trình xử lý dữ liệu đầu vào vi phạm điều kiện lọc đã định nghĩa trước theo nhà sản xuất; kiểm tra tính hợp lệ của dữ liệu để ngăn chặn các dạng tấn công vào giao diện của thiết bị.
+		<word>tiêu chí</word>
+		<word>an toàn</word>
+		<word>ứng dụng</word>
+		<word>thiết bị</word>
+		<word>camera</word>
+		<word>tính năng</word>
+		<word>kiểm tra</word>
+		<word>hợp lệ</word>
+		<word>dữ liệu</word>
+		<word>đầu vào</word>
+		<word>nhập</word>
+		<word>giao diện</word>
+		<word>lập trình</word>
+		<word>ngăn chặn</word>
+		<word>dữ liệu</word>
+		<word>đầu vào</word>
+		<word>vi phạm</word>
+		<word>lọc</word>
+		<word>định nghĩa</word>
+		<word>nhà sản xuất</word>
+		<word>kiểm tra</word>
+		<word>hợp lệ</word>
+		<word>dữ liệu</word>
+		<word>ngăn chặn</word>
+		<word>dạng</word>
+		<word>tấn công</word>
+		<word>giao diện</word>
+		<word>thiết bị</word>
+	</sentence>
+	<sentence>
+		Trong trường hợp thiết bị phải khởi động lại do có lỗi phát sinh (ngoại trừ lỗi phần cứng), thiết bị đảm bảo hoạt động bình thường trong lần khởi động kế tiếp.
+		<word>trường hợp</word>
+		<word>thiết bị</word>
+		<word>khởi động</word>
+		<word>lỗi</word>
+		<word>phát sinh</word>
+		<word>ngoại trừ</word>
+		<word>lỗi</word>
+		<word>phần cứng</word>
+		<word>thiết bị</word>
+		<word>hoạt động</word>
+		<word>bình thường</word>
+		<word>khởi động</word>
+		<word>kế tiếp</word>
+	</sentence>
+	<sentence>
+		Sự ra đời của bộ tiêu chí này là rất cần thiết cho thị trường, hoạt động sản xuất kinh doanh, cung cấp sản phẩm camera giám sát đảm bảo an toàn tại Việt Nam.
+		<word>ra đời</word>
+		<word>tiêu chí</word>
+		<word>cần thiết</word>
+		<word>thị trường</word>
+		<word>hoạt động</word>
+		<word>sản xuất</word>
+		<word>kinh doanh</word>
+		<word>cung cấp</word>
+		<word>sản phẩm</word>
+		<word>camera</word>
+		<word>giám sát</word>
+		<word>an toàn</word>
+		<word>việt nam</word>
+	</sentence>
+	<sentence>
+		Chia sẻ với VnEconomy, chuyên gia an ninh mạng Vũ Ngọc Sơn, Giám đốc Kỹ thuật Công ty cổ phần Công nghệ An ninh mạng Quốc gia (NCS), cho rằng đây là những yêu cầu an ninh mạng cơ bản cần có cho một thiết bị camera kết nối mạng có dữ liệu cá nhân.
+		<word>vneconomy</word>
+		<word>chuyên gia</word>
+		<word>an ninh mạng</word>
+		<word>vũ ngọc sơn</word>
+		<word>giám đốc</word>
+		<word>kỹ thuật</word>
+		<word>công ty</word>
+		<word>cổ phần</word>
+		<word>công nghệ</word>
+		<word>an ninh</word>
+		<word>mạng</word>
+		<word>quốc gia</word>
+		<word>ncs</word>
+		<word>an ninh mạng</word>
+		<word>cơ bản</word>
+		<word>thiết bị</word>
+		<word>camera</word>
+		<word>kết nối</word>
+		<word>mạng</word>
+		<word>dữ liệu</word>
+	</sentence>
+	<sentence>
+		Chuyên gia này đặc biệt nhấn mạnh yêu cầu về bảo đảm an toàn thông tin dữ liệu người sử dụng, trong đó có bảo vệ dữ liệu cá nhân, máy chủ phải tuân quy định của pháp luật Việt Nam về bảo vệ dữ liệu cá nhân.
+		<word>chuyên gia</word>
+		<word>nhấn mạnh</word>
+		<word>bảo đảm</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>dữ liệu</word>
+		<word>bảo vệ</word>
+		<word>dữ liệu</word>
+		<word>máy</word>
+		<word>chủ</word>
+		<word>tuân</word>
+		<word>quy định</word>
+		<word>pháp luật</word>
+		<word>việt nam</word>
+		<word>bảo vệ</word>
+		<word>dữ liệu</word>
+	</sentence>
+	<sentence>
+		Theo ông Sơn, Bộ tiêu chí này sẽ là công cụ, khung khổ để các thiết bị, sản phẩm camera giám sát đáp ứng theo quy định.
+		<word>sơn</word>
+		<word>tiêu chí</word>
+		<word>công cụ</word>
+		<word>khung khổ</word>
+		<word>thiết bị</word>
+		<word>sản phẩm</word>
+		<word>camera</word>
+		<word>giám sát</word>
+		<word>đáp ứng</word>
+		<word>quy định</word>
+	</sentence>
+	<sentence>
+		Tuy nhiên, để đảm bảo an ninh, an toàn thông tin mạng sẽ phụ thuộc vào nhiều yếu tố trong đó con người là một trong những yếu tố quyết định sử dụng thiết bị camera giám sát có an toàn không.
+		<word>an ninh</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>mạng</word>
+		<word>phụ thuộc</word>
+		<word>yếu tố</word>
+		<word>con người</word>
+		<word>yếu tố</word>
+		<word>quyết định</word>
+		<word>thiết bị</word>
+		<word>camera</word>
+		<word>giám sát</word>
+		<word>an toàn</word>
+	</sentence>
+	<sentence>
+		Chuyên gia này phân tích, mặc dù tiêu chí có các yêu cầu quy định về đặt mật khẩu, cập nhật bản vá lỗ hổng sau khi nhà sản xuất công bố nhưng trên thực tế, an toàn thông tin mạng vẫn sẽ phụ thuộc rất lớn vào quá trình sử dụng thiết bị của người dùng.
+		<word>chuyên gia</word>
+		<word>phân tích</word>
+		<word>mặc dù</word>
+		<word>tiêu chí</word>
+		<word>quy định</word>
+		<word>mật khẩu</word>
+		<word>cập nhật bản</word>
+		<word>vá</word>
+		<word>lỗ hổng</word>
+		<word>nhà sản xuất</word>
+		<word>công bố</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>mạng</word>
+		<word>phụ thuộc</word>
+		<word>thiết bị</word>
+	</sentence>
+	<sentence>
+		Đơn cử, nếu người dùng đặt mật khẩu rất mạnh nhưng không biết cách bảo vệ tốt thì vẫn có thể để lộ thông tin.
+		<word>đơn cử</word>
+		<word>mật khẩu</word>
+		<word>bảo vệ</word>
+		<word>lộ</word>
+		<word>thông tin</word>
+	</sentence>
+	<sentence>
+		Hoặc khi các nhà sản xuất đã công bố bản vá nhưng người dùng không cập nhật thì thiết bị camera vẫn có thể bị tấn công.
+		<word>nhà sản xuất</word>
+		<word>công bố</word>
+		<word>bản vá</word>
+		<word>cập nhật</word>
+		<word>thiết bị</word>
+		<word>camera</word>
+		<word>tấn công</word>
+	</sentence>
+</document>

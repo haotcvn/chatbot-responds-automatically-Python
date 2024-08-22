@@ -1,0 +1,663 @@
+<?xml version="1.0" ?>
+<document>
+	<sentence>
+		Thế giới mất 8.000 tỷ USD vì tấn công mạng.
+		<word>thế giới</word>
+		<word>8.000</word>
+		<word>tỷ</word>
+		<word>usd</word>
+		<word>tấn công</word>
+		<word>mạng</word>
+	</sentence>
+	<sentence>
+		Thống kê của Cybersecurity Ventures, trong năm 2023, thiệt hại bởi các vụ tấn công mạng là khoảng 8 nghìn tỷ USD (tương đương gần 196 triệu tỷ VNĐ) trên toàn thế giới….
+		<word>thống kê</word>
+		<word>cybersecurity ventures</word>
+		<word>2023</word>
+		<word>thiệt hại</word>
+		<word>vụ</word>
+		<word>tấn công</word>
+		<word>mạng</word>
+		<word>8</word>
+		<word>nghìn</word>
+		<word>tỷ</word>
+		<word>usd</word>
+		<word>tương đương</word>
+		<word>196</word>
+		<word>triệu</word>
+		<word>tỷ</word>
+		<word>vnđ</word>
+		<word>toàn</word>
+		<word>thế giới</word>
+		<word>…</word>
+	</sentence>
+	<sentence>
+		Báo cáo tổng hợp tình hình an ninh mạng 2023 và dự đoán xu hướng năm 2024 vừa được Công ty An ninh mạng Việt Nam (VSEC) công bố cho biết bản đồ an ninh mạng thế giới trong năm 2023, theo đó các khu vực bị nhắm mục tiêu nhiều nhất, trong đó Ukraine là mục tiêu hàng đầu ở châu Âu tính theo số lượng hoạt động được quan sát, do các hoạt động liên quan đến cuộc chiến tranh với Nga.
+		<word>báo cáo</word>
+		<word>tổng hợp</word>
+		<word>tình hình</word>
+		<word>an ninh</word>
+		<word>mạng</word>
+		<word>2023</word>
+		<word>dự đoán</word>
+		<word>xu hướng</word>
+		<word>2024</word>
+		<word>công ty</word>
+		<word>an ninh mạng</word>
+		<word>việt nam</word>
+		<word>vsec</word>
+		<word>công bố</word>
+		<word>bản đồ</word>
+		<word>an ninh mạng</word>
+		<word>thế giới</word>
+		<word>2023</word>
+		<word>khu vực</word>
+		<word>nhắm</word>
+		<word>mục tiêu</word>
+		<word>ukraine</word>
+		<word>mục tiêu</word>
+		<word>hàng đầu</word>
+		<word>châu âu</word>
+		<word>số lượng</word>
+		<word>hoạt động</word>
+		<word>quan sát</word>
+		<word>hoạt động</word>
+		<word>chiến tranh</word>
+		<word>nga</word>
+	</sentence>
+	<sentence>
+		Israel cho đến nay vẫn là quốc gia bị nhắm mục tiêu nhiều nhất ở khu vực Trung Đông và Bắc Phi do vẫn là điểm nóng chính trị cũng như các hoạt động quân sự tại dải Gaza.
+		<word>israel</word>
+		<word>quốc gia</word>
+		<word>nhắm</word>
+		<word>mục tiêu</word>
+		<word>khu vực</word>
+		<word>trung đông</word>
+		<word>bắc phi</word>
+		<word>điểm nóng</word>
+		<word>chính trị</word>
+		<word>hoạt động</word>
+		<word>quân sự</word>
+		<word>dải</word>
+		<word>gaza</word>
+	</sentence>
+	<sentence>
+		Các nhóm hoạt động nhà nước Bắc Triều Tiên và Trung Quốc đã khiến Hàn Quốc và Đài Loan trở thành hai khu vực địa lý bị nhắm mục tiêu nhiều nhất và thứ hai trong khu vực châu Á-Thái Bình Dương.
+		<word>hoạt động</word>
+		<word>nhà nước</word>
+		<word>bắc triều tiên</word>
+		<word>trung quốc</word>
+		<word>hàn quốc</word>
+		<word>đài loan</word>
+		<word>hai</word>
+		<word>khu vực</word>
+		<word>địa lý</word>
+		<word>nhắm</word>
+		<word>mục tiêu</word>
+		<word>hai</word>
+		<word>khu vực</word>
+		<word>châu á-thái</word>
+		<word>bình dương</word>
+	</sentence>
+	<sentence>
+		Đối với các lĩnh vực bị nhắm mục tiêu nhiều nhất theo khu vực gồm các hoạt động mạng cấp quốc gia thường nhắm vào nhiều lĩnh vực khác nhau trên toàn cầu.
+		<word>lĩnh vực</word>
+		<word>nhắm</word>
+		<word>mục tiêu</word>
+		<word>khu vực</word>
+		<word>hoạt động</word>
+		<word>mạng</word>
+		<word>quốc gia</word>
+		<word>nhắm</word>
+		<word>lĩnh vực</word>
+		<word>toàn cầu</word>
+	</sentence>
+	<sentence>
+		Các mục tiêu mềm dễ tấn công như các viện nghiên cứu, tổ chức phi chính phủ và các trường đại học, vẫn là các mục tiêu hàng đầu tương tự năm ngoái, vì các nhóm đe doạ dường như vẫn đang coi đây là các mục tiêu tiếp cận ban đầu dễ dàng hơn để tìm hiểu về chính sách hay khoa học và cộng đồng công nghệ của một quốc gia.
+		<word>mục tiêu</word>
+		<word>mềm</word>
+		<word>tấn công</word>
+		<word>viện</word>
+		<word>nghiên cứu</word>
+		<word>tổ chức</word>
+		<word>phi chính phủ</word>
+		<word>trường</word>
+		<word>đại học</word>
+		<word>mục tiêu</word>
+		<word>hàng đầu</word>
+		<word>tương tự</word>
+		<word>năm ngoái</word>
+		<word>đe dọa</word>
+		<word>dường như</word>
+		<word>coi</word>
+		<word>mục tiêu</word>
+		<word>tiếp cận</word>
+		<word>ban đầu</word>
+		<word>dễ dàng</word>
+		<word>chính sách</word>
+		<word>khoa học</word>
+		<word>cộng đồng</word>
+		<word>công nghệ</word>
+		<word>quốc gia</word>
+	</sentence>
+	<sentence>
+		Đồng thời việc nhắm vào các mục tiêu truyền thông như cơ quan chính phủ hay ngành công nghiệp quốc phòng sẽ khó khăn hơn khi khi căng thẳng địa chính trị gia tăng xung quanh chiến tranh Ukraine, Eo biển Đài Loan và các chương trình hạt nhân của Iran và Bắc Triều Tiên.
+		<word>nhắm</word>
+		<word>mục tiêu</word>
+		<word>truyền thông</word>
+		<word>cơ quan</word>
+		<word>chính phủ</word>
+		<word>ngành</word>
+		<word>công nghiệp</word>
+		<word>quốc phòng</word>
+		<word>căng thẳng</word>
+		<word>địa chính trị</word>
+		<word>gia tăng</word>
+		<word>xung quanh</word>
+		<word>chiến tranh</word>
+		<word>ukraine</word>
+		<word>eo</word>
+		<word>biển</word>
+		<word>đài loan</word>
+		<word>chương trình</word>
+		<word>hạt nhân</word>
+		<word>iran</word>
+		<word>bắc triều tiên</word>
+	</sentence>
+	<sentence>
+		Các tác nhân ngày càng tinh vi cũng cho phép các đối tượng nâng cao khả năng tiếp cận tới các mục tiêu khó tấn công hơn.
+		<word>tác nhân</word>
+		<word>tinh vi</word>
+		<word>cho phép</word>
+		<word>đối tượng</word>
+		<word>nâng</word>
+		<word>khả năng</word>
+		<word>tiếp cận</word>
+		<word>mục tiêu</word>
+		<word>tấn công</word>
+	</sentence>
+	<sentence>
+		Báo cáo của VSEC cũng dẫn báo cáo thống kê của Cybersecurity Ventures, trong năm 2023, thiệt hại bởi các vụ tấn công mạng là khoảng 8 nghìn tỷ USD (tương đương gần 196 triệu tỷ VNĐ) trên toàn thế giới.
+		<word>báo cáo</word>
+		<word>vsec</word>
+		<word>báo cáo</word>
+		<word>thống kê</word>
+		<word>cybersecurity ventures</word>
+		<word>2023</word>
+		<word>thiệt hại</word>
+		<word>vụ</word>
+		<word>tấn công</word>
+		<word>mạng</word>
+		<word>8</word>
+		<word>nghìn</word>
+		<word>tỷ</word>
+		<word>usd</word>
+		<word>tương đương</word>
+		<word>196</word>
+		<word>triệu</word>
+		<word>tỷ</word>
+		<word>vnđ</word>
+		<word>toàn</word>
+		<word>thế giới</word>
+	</sentence>
+	<sentence>
+		Điều đó cũng có nghĩa, một tháng thế giới thiệt hạ 667 tỷ USD, mỗi tuần thiệt hại 154 tỷ USD, mỗi ngày thiệt hại 21,9 tỷ USD, mỗi giờ thiệt hại 913 triệu USD, mỗi phút thiệt hại 15,2 triệu USD, và mỗi giây thiệt hại 255.000USD (gần 6,2 tỷ VNĐ).
+		<word>nghĩa</word>
+		<word>thế giới</word>
+		<word>thiệt hạ</word>
+		<word>667</word>
+		<word>tỷ</word>
+		<word>usd</word>
+		<word>tuần</word>
+		<word>thiệt hại</word>
+		<word>154</word>
+		<word>tỷ</word>
+		<word>usd</word>
+		<word>thiệt hại</word>
+		<word>21,9</word>
+		<word>tỷ</word>
+		<word>usd</word>
+		<word>thiệt hại</word>
+		<word>913</word>
+		<word>triệu</word>
+		<word>usd</word>
+		<word>phút</word>
+		<word>thiệt hại</word>
+		<word>15,2</word>
+		<word>triệu</word>
+		<word>usd</word>
+		<word>giây</word>
+		<word>thiệt hại</word>
+		<word>255.000</word>
+		<word>usd</word>
+		<word>6,2</word>
+		<word>tỷ vnđ</word>
+	</sentence>
+	<sentence>
+		Ngoài ra, theo báo cáo Triển vọng Kinh tế thế giới năm 2023 do Quỹ Tiền tệ Quốc tế (IMF) dự báo thế giới đạt tổng sản phẩm quốc nội (GDP) là 105 nghìn tỷ USD năm 2023, như vậy thiệt hại bởi các vụ tấn công mạng năm 2023 chiếm tới 8% GDP của toàn thế giới.
+		<word>báo cáo</word>
+		<word>triển vọng</word>
+		<word>kinh tế</word>
+		<word>thế giới</word>
+		<word>2023</word>
+		<word>quỹ tiền tệ</word>
+		<word>quốc tế</word>
+		<word>imf</word>
+		<word>dự báo</word>
+		<word>thế giới</word>
+		<word>tổng sản phẩm</word>
+		<word>quốc nội</word>
+		<word>gdp</word>
+		<word>105</word>
+		<word>nghìn</word>
+		<word>tỷ</word>
+		<word>usd</word>
+		<word>2023</word>
+		<word>thiệt hại</word>
+		<word>vụ</word>
+		<word>tấn công</word>
+		<word>mạng</word>
+		<word>2023</word>
+		<word>chiếm</word>
+		<word>8</word>
+		<word>gdp</word>
+		<word>toàn</word>
+		<word>thế giới</word>
+	</sentence>
+	<sentence>
+		Các hình thức tấn công mạng phổ biến 2023, gồm: (1), đánh cắp danh tính (Identify attack) - các cuộc tấn công nhắm vào thông tin cá nhân của người dùng như tên đăng nhập, mật khẩu và thông tin cá nhân khác.
+		<word>hình thức</word>
+		<word>tấn công mạng</word>
+		<word>phổ biến</word>
+		<word>2023</word>
+		<word>1</word>
+		<word>đánh cắp</word>
+		<word>danh tính</word>
+		<word>identify attack</word>
+		<word>tấn công</word>
+		<word>nhắm</word>
+		<word>thông tin</word>
+		<word>đăng nhập</word>
+		<word>mật khẩu</word>
+		<word>thông tin</word>
+	</sentence>
+	<sentence>
+		Tội phạm đánh cắp sẽ sử dụng các thông tin cá nhân này để thực hiện lừa đảo, đánh cắp tài khoản ngân hàng hoặc tiến hành các hoạt động giả mạo khác/
+
+(2), tấn công lừa đảo (Phishing) - tấn công phishing là việc lừa đảo người dùng bằng cách giả mạo thông tin để thu thập thông tin cá nhân hoặc tài khoản.
+		<word>tội phạm</word>
+		<word>đánh cắp</word>
+		<word>thông tin</word>
+		<word>lừa đảo</word>
+		<word>đánh cắp</word>
+		<word>tài khoản</word>
+		<word>ngân hàng</word>
+		<word>tiến hành</word>
+		<word>hoạt động</word>
+		<word>giả mạo</word>
+		<word>2</word>
+		<word>tấn công</word>
+		<word>lừa đảo</word>
+		<word>phishing</word>
+		<word>tấn công</word>
+		<word>phishing</word>
+		<word>lừa đảo</word>
+		<word>giả mạo</word>
+		<word>thông tin</word>
+		<word>thu thập</word>
+		<word>thông tin</word>
+		<word>tài khoản</word>
+	</sentence>
+	<sentence>
+		Nhằm đánh cắp thông tin cá nhân, tài khoản ngân hàng hoặc thông tin đăng nhập.
+		<word>đánh cắp</word>
+		<word>thông tin</word>
+		<word>tài khoản</word>
+		<word>ngân hàng</word>
+		<word>thông tin</word>
+		<word>đăng nhập</word>
+	</sentence>
+	<sentence>
+		Hình thức lừa đảo có thể từ email giả mạo, trang web giả, tin nhắn text giả hoặc các phương tiện trực tuyến khác.
+		<word>hình thức</word>
+		<word>lừa đảo</word>
+		<word>email</word>
+		<word>giả mạo</word>
+		<word>trang web</word>
+		<word>giả</word>
+		<word>nhắn text</word>
+		<word>giả</word>
+		<word>phương tiện</word>
+		<word>trực tuyến</word>
+	</sentence>
+	<sentence>
+		(3), mã độc (Ransomware) - một loại mã độc hại có khả năng mã hoá dữ liệu trên máy tính hoặc hệ thống, sau đó đòi tiền chuộc để giải mã.
+		<word>3</word>
+		<word>mã độc</word>
+		<word>ransomware</word>
+		<word>loại mã</word>
+		<word>độc hại</word>
+		<word>khả năng</word>
+		<word>mã hóa</word>
+		<word>dữ liệu</word>
+		<word>máy tính</word>
+		<word>hệ thống</word>
+		<word>đòi</word>
+		<word>tiền</word>
+		<word>chuộc</word>
+		<word>giải mã</word>
+	</sentence>
+	<sentence>
+		(4), xâm phạm mail doanh nghiệp (BEC) - các cuộc tấn công BEC liên quan đến việc lừa đảo qua email, thường là giả mạo các bên liên quan trong tổ chức để thực hiện các giao dịch tài chính mà doanh nghiệp không hề mong muốn.
+		<word>4</word>
+		<word>xâm phạm</word>
+		<word>mail doanh nghiệp</word>
+		<word>bec</word>
+		<word>tấn công</word>
+		<word>bec</word>
+		<word>lừa đảo</word>
+		<word>email</word>
+		<word>giả mạo</word>
+		<word>tổ chức</word>
+		<word>giao dịch</word>
+		<word>tài chính</word>
+		<word>doanh nghiệp</word>
+		<word>hề</word>
+		<word>mong muốn</word>
+	</sentence>
+	<sentence>
+		Mục đích để lấy cắp tiền hoặc thông tin tài khoản ngân hàng bằng cách thay đổi thông tin thanh toán trong các giao dịch kinh doanh
+
+(5), tấn công từ chối dịch vụ (DoS/DDoS) - hay còn gọi là tấn công từ chối dịch vụ phân tán.
+		<word>mục đích</word>
+		<word>cắp</word>
+		<word>tiền</word>
+		<word>thông tin</word>
+		<word>tài khoản</word>
+		<word>ngân hàng</word>
+		<word>thông tin</word>
+		<word>thanh toán</word>
+		<word>giao dịch</word>
+		<word>kinh doanh</word>
+		<word>5</word>
+		<word>tấn công</word>
+		<word>từ chối</word>
+		<word>dịch vụ</word>
+		<word>dos</word>
+		<word>ddos</word>
+		<word>gọi là</word>
+		<word>tấn công</word>
+		<word>từ chối</word>
+		<word>dịch vụ</word>
+		<word>phân tán</word>
+	</sentence>
+	<sentence>
+		Đây là hình thức tấn công mạng khiến cho một dịch vụ trực tuyến hoặc một hệ thống trở nên không khả dụng đối với người dùng.
+		<word>hình thức</word>
+		<word>tấn công</word>
+		<word>mạng</word>
+		<word>dịch vụ</word>
+		<word>trực tuyến</word>
+		<word>hệ thống</word>
+		<word>trở nên</word>
+		<word>khả dụng</word>
+	</sentence>
+	<sentence>
+		Kẻ tấn công sử dụng nhiều máy tính hoặc thiết bị kết nối internet (botnet) để gửi lượng lớn yêu cầu đến một dịch vụ hoặc hệ thống mục tiêu khiến hệ thống không thể xử lý được.
+		<word>kẻ</word>
+		<word>tấn công</word>
+		<word>máy tính</word>
+		<word>thiết bị</word>
+		<word>kết nối</word>
+		<word>internet</word>
+		<word>botnet</word>
+		<word>gửi</word>
+		<word>dịch vụ</word>
+		<word>hệ thống</word>
+		<word>mục tiêu</word>
+		<word>hệ thống</word>
+	</sentence>
+	<sentence>
+		Tại Việt Nam, báo cáo của VSEC cho biết trong 9 tháng đầu năm 2023, Cục An toàn thông tin (Bộ Thông tin và Truyền thông) đã ghi nhận, cảnh báo và hướng dẫn xử lý 9.503 cuộc tấn công mạng gây ra sự cố vào các hệ thống thông tin tại Việt Nam.
+		<word>việt nam</word>
+		<word>báo cáo</word>
+		<word>vsec</word>
+		<word>9</word>
+		<word>đầu</word>
+		<word>2023</word>
+		<word>cục</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>thông tin</word>
+		<word>truyền thông</word>
+		<word>ghi nhận</word>
+		<word>cảnh báo</word>
+		<word>hướng dẫn</word>
+		<word>9.503 cuộc</word>
+		<word>tấn công</word>
+		<word>mạng</word>
+		<word>sự cố</word>
+		<word>hệ thống</word>
+		<word>thông tin</word>
+		<word>việt nam</word>
+	</sentence>
+	<sentence>
+		Trong đó, Cục An toàn thông tin ghi nhận 8.168 cuộc tấn công lừa đảo, 451 cuộc tấn công Deface (thay đổi nội dung website), 884 cuộc tấn công mã độc.
+		<word>cục</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>ghi nhận</word>
+		<word>8.168 cuộc</word>
+		<word>tấn công</word>
+		<word>lừa đảo</word>
+		<word>451</word>
+		<word>tấn công</word>
+		<word>deface</word>
+		<word>nội dung</word>
+		<word>website</word>
+		<word>884</word>
+		<word>tấn công</word>
+		<word>mã độc</word>
+	</sentence>
+	<sentence>
+		Ngoài ra, các cuộc tấn công sử dụng mã độc tống tiền nhắm vào các tổ chức, cơ sở hạ tầng công nghiệp đã tăng gần gấp đôi so với năm 2022.
+		<word>tấn công</word>
+		<word>mã độc</word>
+		<word>tống tiền</word>
+		<word>nhắm</word>
+		<word>tổ chức</word>
+		<word>cơ sở hạ tầng</word>
+		<word>công nghiệp</word>
+		<word>gấp</word>
+		<word>đôi</word>
+		<word>2022</word>
+	</sentence>
+	<sentence>
+		Trong đó với hơn 70% tổng số cuộc tấn công bằng mã độc tống tiền tập trung vào ngành sản xuất, cho thấy tin tặc tiếp tục nhắm mục tiêu rộng rãi vào lĩnh vực quan trọng này.
+		<word>70</word>
+		<word>tổng số</word>
+		<word>tấn công</word>
+		<word>mã độc</word>
+		<word>tống tiền</word>
+		<word>ngành</word>
+		<word>sản xuất</word>
+		<word>tặc</word>
+		<word>nhắm</word>
+		<word>mục tiêu</word>
+		<word>rộng rãi</word>
+		<word>lĩnh vực</word>
+	</sentence>
+	<sentence>
+		“Việt Nam đứng đầu trong top 10 quốc gia có số lượng mục tiêu bị tấn công bởi phần mềm độc hại Infostealer tại khu vực Châu Á Thái Bình Dương – theo nghiên cứu từ Cyberint tại Châu Á năm 2023”, báo cáo nhấn mạnh.
+		<word>“</word>
+		<word>việt nam</word>
+		<word>đứng</word>
+		<word>đầu</word>
+		<word>top</word>
+		<word>10</word>
+		<word>quốc gia</word>
+		<word>số lượng</word>
+		<word>mục tiêu</word>
+		<word>tấn công</word>
+		<word>phần mềm</word>
+		<word>độc hại</word>
+		<word>infostealer</word>
+		<word>khu vực</word>
+		<word>châu á</word>
+		<word>thái bình dương</word>
+		<word>–</word>
+		<word>nghiên cứu</word>
+		<word>cyberint</word>
+		<word>châu á</word>
+		<word>2023</word>
+		<word>”</word>
+		<word>báo cáo</word>
+		<word>nhấn mạnh</word>
+	</sentence>
+	<sentence>
+		Cũng theo báo cáo của VSEC, trong năm 2023, tỷ lệ sự cố về truy cập trái phép, chiếm quyền điều khiển đang là sự cố an toàn thông tin có tỷ trọng lớn nhất, đặc biệt chủ yếu nhằm vào các doanh nghiệp thuộc nhóm ngân hàng - tài chính - bảo hiểm.
+		<word>báo cáo</word>
+		<word>vsec</word>
+		<word>2023</word>
+		<word>tỷ lệ</word>
+		<word>sự cố</word>
+		<word>truy cập</word>
+		<word>trái phép</word>
+		<word>chiếm quyền</word>
+		<word>điều khiển</word>
+		<word>sự cố</word>
+		<word>an toàn</word>
+		<word>thông tin</word>
+		<word>tỷ trọng</word>
+		<word>chủ yếu</word>
+		<word>doanh nghiệp</word>
+		<word>ngân hàng</word>
+		<word>tài chính</word>
+		<word>bảo hiểm</word>
+	</sentence>
+	<sentence>
+		Tổng số lượng sự cố VSEC giám sát bảo mật trong năm 2023 là 148.615 sựcố và 2.630 lỗ hổng bảo mật.
+		<word>tổng số lượng</word>
+		<word>sự cố</word>
+		<word>vsec</word>
+		<word>giám sát</word>
+		<word>bảo mật</word>
+		<word>2023</word>
+		<word>148.615 sựcố</word>
+		<word>2.630</word>
+		<word>lỗ hổng</word>
+		<word>bảo mật</word>
+	</sentence>
+	<sentence>
+		Ghi nhận trong năm 2023 cho khối ngân hàng - tài chính - bảo hiểm cho thấy tỷ lệ truy cập trái phép, chiếm quyền điều khiển 28%, sự cố bảo mật trên web 26%, tiếp sau là sựcố bảo mật Kết hợp nhiều kỹ thuật 23%, mã độc 8%, phishing lừa đảo 7% và chỉ có 1% là tấn công bằng DoS/DDoS.
+		<word>ghi nhận</word>
+		<word>2023</word>
+		<word>khối</word>
+		<word>ngân hàng</word>
+		<word>tài chính</word>
+		<word>bảo hiểm</word>
+		<word>tỷ lệ</word>
+		<word>truy cập</word>
+		<word>trái phép</word>
+		<word>chiếm quyền</word>
+		<word>điều khiển</word>
+		<word>28</word>
+		<word>sự cố</word>
+		<word>bảo mật</word>
+		<word>web</word>
+		<word>26</word>
+		<word>tiếp</word>
+		<word>sựcố</word>
+		<word>bảo mật</word>
+		<word>kết hợp</word>
+		<word>kỹ thuật</word>
+		<word>23</word>
+		<word>mã</word>
+		<word>độc</word>
+		<word>8</word>
+		<word>phishing</word>
+		<word>lừa đảo</word>
+		<word>7</word>
+		<word>1</word>
+		<word>tấn công</word>
+		<word>dos</word>
+		<word>ddos</word>
+	</sentence>
+	<sentence>
+		Đối với các khối doanh nghiệp và khối hành chính công hình thức tấn công bằng web chiếm tỷ lệ tới 62% (Enterprise) và 59% (Public Sector) còn lại là hình thức tấn công bằng mã độc là 38% và 41%.
+		<word>khối</word>
+		<word>doanh nghiệp</word>
+		<word>khối</word>
+		<word>hành chính</word>
+		<word>công hình thức</word>
+		<word>tấn công</word>
+		<word>web</word>
+		<word>chiếm</word>
+		<word>tỷ lệ</word>
+		<word>62</word>
+		<word>enterprise</word>
+		<word>59</word>
+		<word>public sector</word>
+		<word>hình thức</word>
+		<word>tấn công</word>
+		<word>mã độc</word>
+		<word>38</word>
+		<word>41</word>
+	</sentence>
+	<sentence>
+		Và dường như các hệ thống công nghệ thông tin với đích đến yếu nhất là website mà các kẻ tấn công nhắm đến vẫn tập trung vào các kênh hiện diễn dễ dàng tìm kiếm nhất trên Internet.
+		<word>dường như</word>
+		<word>hệ thống</word>
+		<word>công nghệ thông tin</word>
+		<word>đích</word>
+		<word>yếu</word>
+		<word>website</word>
+		<word>kẻ</word>
+		<word>tấn công</word>
+		<word>nhắm</word>
+		<word>kênh</word>
+		<word>hiện diễn</word>
+		<word>dễ dàng</word>
+		<word>tìm kiếm</word>
+		<word>internet</word>
+	</sentence>
+	<sentence>
+		Về xu hướng năm 2024, VSEC cho rằng các loại hình tấn công mạng sẽ trở thành xu hướng năm 2024 là tấn công bằng mã độc tốc tống tiền (ransomeware) và các vụ tấn công liên quan đến trí tuệ nhân tạo.
+		<word>xu hướng</word>
+		<word>2024</word>
+		<word>vsec</word>
+		<word>loại hình</word>
+		<word>tấn công</word>
+		<word>mạng</word>
+		<word>xu hướng</word>
+		<word>2024</word>
+		<word>tấn công</word>
+		<word>mã</word>
+		<word>độc tốc</word>
+		<word>tống tiền</word>
+		<word>ransomeware</word>
+		<word>vụ</word>
+		<word>tấn công</word>
+		<word>trí tuệ</word>
+		<word>nhân tạo</word>
+	</sentence>
+	<sentence>
+		Các hệ thống nguồn mở, hệ thống IoT, hệ thống vận hành (OT), email doanh nghiệp và môi trường điện toán đám mây sẽ là những mục tiêu bị nhắm đến phổ biến bởi tin tặc.
+		<word>hệ thống</word>
+		<word>hệ thống</word>
+		<word>iot</word>
+		<word>hệ thống</word>
+		<word>vận hành</word>
+		<word>ot</word>
+		<word>email</word>
+		<word>doanh nghiệp</word>
+		<word>môi trường</word>
+		<word>điện toán</word>
+		<word>đám</word>
+		<word>mây</word>
+		<word>mục tiêu</word>
+		<word>nhắm</word>
+		<word>phổ biến</word>
+		<word>tặc</word>
+	</sentence>
+</document>
